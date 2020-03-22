@@ -1,0 +1,1231 @@
+boxscore_index,date,datetime,game,location,losses,opponent_abbr,opponent_name,playoffs,points_allowed,points_scored,result,streak,time,wins,team_abbr,team_name
+201910220LAC,"Tue, Oct 22, 2019",22-10-2019,1,Home,0,LAL,Los Angeles Lakers,FALSE,102,112,Win,W 1,10:30p,1,LAC,Los Angeles Clippers
+201910220TOR,"Tue, Oct 22, 2019",22-10-2019,1,Home,0,NOP,New Orleans Pelicans,FALSE,122,130,Win,W 1,8:00p,1,TOR,Toronto Raptors
+201910230PHI,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,PHI,Philadelphia 76ers,FALSE,107,93,Loss,L 1,7:30p,0,BOS,Boston Celtics
+201910230CHO,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,CHO,Charlotte Hornets,FALSE,126,125,Loss,L 1,7:00p,0,CHI,Chicago Bulls
+201910230SAS,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,SAS,San Antonio Spurs,FALSE,120,111,Loss,L 1,8:30p,0,NYK,New York Knicks
+201910230IND,"Wed, Oct 23, 2019",23-10-2019,1,Away,0,IND,Indiana Pacers,FALSE,110,119,Win,W 1,7:00p,1,DET,Detroit Pistons
+201910230DAL,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,DAL,Dallas Mavericks,FALSE,108,100,Loss,L 1,8:30p,0,WAS,Washington Wizards
+201910230PHO,"Wed, Oct 23, 2019",23-10-2019,1,Home,0,SAC,Sacramento Kings,FALSE,95,124,Win,W 1,10:00p,1,PHO,Phoenix Suns
+201910230ORL,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,ORL,Orlando Magic,FALSE,94,85,Loss,L 1,7:00p,0,CLE,Cleveland Cavaliers
+201910230UTA,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,UTA,Utah Jazz,FALSE,100,95,Loss,L 1,9:00p,0,OKC,Oklahoma City Thunder
+201910230BRK,"Wed, Oct 23, 2019",23-10-2019,1,Home,1,MIN,Minnesota Timberwolves,FALSE,127,126,Loss,L 1,7:30p,0,BRK,Brooklyn Nets
+201910230POR,"Wed, Oct 23, 2019",23-10-2019,1,Home,1,DEN,Denver Nuggets,FALSE,108,100,Loss,L 1,10:00p,0,POR,Portland Trail Blazers
+201910230MIA,"Wed, Oct 23, 2019",23-10-2019,1,Away,1,MIA,Miami Heat,FALSE,120,101,Loss,L 1,7:30p,0,MEM,Memphis Grizzlies
+201910240GSW,"Thu, Oct 24, 2019",24-10-2019,2,Away,0,GSW,Golden State Warriors,FALSE,122,141,Win,W 2,10:30p,2,LAC,Los Angeles Clippers
+201910240DET,"Thu, Oct 24, 2019",24-10-2019,1,Away,0,DET,Detroit Pistons,FALSE,100,117,Win,W 1,7:00p,1,ATL,Atlanta Hawks
+201910240HOU,"Thu, Oct 24, 2019",24-10-2019,1,Away,0,HOU,Houston Rockets,FALSE,111,117,Win,W 1,8:00p,1,MIL,Milwaukee Bucks
+201910250MEM,"Fri, Oct 25, 2019",25-10-2019,2,Home,2,CHI,Chicago Bulls,FALSE,110,102,Loss,L 2,8:00p,0,MEM,Memphis Grizzlies
+201910250SAC,"Fri, Oct 25, 2019",25-10-2019,2,Home,2,POR,Portland Trail Blazers,FALSE,122,112,Loss,L 2,10:00p,0,SAC,Sacramento Kings
+201910250CHO,"Fri, Oct 25, 2019",25-10-2019,2,Home,1,MIN,Minnesota Timberwolves,FALSE,121,99,Loss,L 1,7:00p,1,CHO,Charlotte Hornets
+201910250OKC,"Fri, Oct 25, 2019",25-10-2019,2,Home,2,WAS,Washington Wizards,FALSE,97,85,Loss,L 2,8:00p,0,OKC,Oklahoma City Thunder
+201910250NOP,"Fri, Oct 25, 2019",25-10-2019,2,Away,0,NOP,New Orleans Pelicans,FALSE,116,123,Win,W 2,8:00p,2,DAL,Dallas Mavericks
+201910250BRK,"Fri, Oct 25, 2019",25-10-2019,2,Home,1,NYK,New York Knicks,FALSE,109,113,Win,W 1,7:30p,1,BRK,Brooklyn Nets
+201910250BOS,"Fri, Oct 25, 2019",25-10-2019,2,Home,1,TOR,Toronto Raptors,FALSE,106,112,Win,W 1,7:00p,1,BOS,Boston Celtics
+201910250DEN,"Fri, Oct 25, 2019",25-10-2019,2,Away,1,DEN,Denver Nuggets,FALSE,108,107,Loss,L 1,9:00p,1,PHO,Phoenix Suns
+201910250LAL,"Fri, Oct 25, 2019",25-10-2019,2,Away,1,LAL,Los Angeles Lakers,FALSE,95,86,Loss,L 1,10:30p,1,UTA,Utah Jazz
+201910260CLE,"Sat, Oct 26, 2019",26-10-2019,2,Away,2,CLE,Cleveland Cavaliers,FALSE,110,99,Loss,L 2,8:00p,0,IND,Indiana Pacers
+201910260ATL,"Sat, Oct 26, 2019",26-10-2019,2,Home,0,ORL,Orlando Magic,FALSE,99,103,Win,W 2,7:30p,2,ATL,Atlanta Hawks
+201910260UTA,"Sat, Oct 26, 2019",26-10-2019,3,Home,1,SAC,Sacramento Kings,FALSE,81,113,Win,W 1,9:00p,2,UTA,Utah Jazz
+201910260SAS,"Sat, Oct 26, 2019",26-10-2019,3,Away,2,SAS,San Antonio Spurs,FALSE,124,122,Loss,L 1,8:30p,1,WAS,Washington Wizards
+201910260DET,"Sat, Oct 26, 2019",26-10-2019,3,Home,2,PHI,Philadelphia 76ers,FALSE,117,111,Loss,L 2,7:00p,1,DET,Detroit Pistons
+201910260MIL,"Sat, Oct 26, 2019",26-10-2019,2,Home,1,MIA,Miami Heat,FALSE,131,126,Loss,L 1,5:00p,1,MIL,Milwaukee Bucks
+201910260HOU,"Sat, Oct 26, 2019",26-10-2019,2,Home,1,NOP,New Orleans Pelicans,FALSE,123,126,Win,W 1,8:00p,1,HOU,Houston Rockets
+201910260NYK,"Sat, Oct 26, 2019",26-10-2019,3,Home,3,BOS,Boston Celtics,FALSE,118,95,Loss,L 3,7:30p,0,NYK,New York Knicks
+201910260CHI,"Sat, Oct 26, 2019",26-10-2019,3,Away,1,CHI,Chicago Bulls,FALSE,84,108,Win,W 1,8:00p,2,TOR,Toronto Raptors
+201910260PHO,"Sat, Oct 26, 2019",26-10-2019,3,Home,1,LAC,Los Angeles Clippers,FALSE,122,130,Win,W 1,10:00p,2,PHO,Phoenix Suns
+201910270OKC,"Sun, Oct 27, 2019",27-10-2019,2,Away,2,OKC,Oklahoma City Thunder,FALSE,120,92,Loss,L 2,3:30p,0,GSW,Golden State Warriors
+201910270DAL,"Sun, Oct 27, 2019",27-10-2019,3,Away,1,DAL,Dallas Mavericks,FALSE,119,121,Win,W 2,7:00p,2,POR,Portland Trail Blazers
+201910270LAL,"Sun, Oct 27, 2019",27-10-2019,3,Home,1,CHO,Charlotte Hornets,FALSE,101,120,Win,W 2,9:30p,2,LAL,Los Angeles Lakers
+201910270MIN,"Sun, Oct 27, 2019",27-10-2019,3,Away,1,MIN,Minnesota Timberwolves,FALSE,116,109,Loss,L 1,7:00p,2,MIA,Miami Heat
+201910270MEM,"Sun, Oct 27, 2019",27-10-2019,3,Away,2,MEM,Memphis Grizzlies,FALSE,134,133,Loss,L 1,6:00p,1,BRK,Brooklyn Nets
+201910280MIL,"Mon, Oct 28, 2019",28-10-2019,3,Home,1,CLE,Cleveland Cavaliers,FALSE,112,129,Win,W 1,8:00p,2,MIL,Milwaukee Bucks
+201910280TOR,"Mon, Oct 28, 2019",28-10-2019,4,Home,1,ORL,Orlando Magic,FALSE,95,104,Win,W 2,7:30p,3,TOR,Toronto Raptors
+201910280DET,"Mon, Oct 28, 2019",28-10-2019,3,Away,3,DET,Detroit Pistons,FALSE,96,94,Loss,L 3,7:00p,0,IND,Indiana Pacers
+201910280NOP,"Mon, Oct 28, 2019",28-10-2019,3,Away,2,NOP,New Orleans Pelicans,FALSE,123,134,Win,W 1,8:00p,1,GSW,Golden State Warriors
+201910280HOU,"Mon, Oct 28, 2019",28-10-2019,3,Home,1,OKC,Oklahoma City Thunder,FALSE,112,116,Win,W 2,8:00p,2,HOU,Houston Rockets
+201910280PHO,"Mon, Oct 28, 2019",28-10-2019,4,Home,2,UTA,Utah Jazz,FALSE,96,95,Loss,L 1,10:00p,2,PHO,Phoenix Suns
+201910280ATL,"Mon, Oct 28, 2019",28-10-2019,3,Away,0,ATL,Atlanta Hawks,FALSE,103,105,Win,W 3,7:30p,3,PHI,Philadelphia 76ers
+201910280NYK,"Mon, Oct 28, 2019",28-10-2019,4,Home,3,CHI,Chicago Bulls,FALSE,98,105,Win,W 1,7:00p,1,NYK,New York Knicks
+201910280SAC,"Mon, Oct 28, 2019",28-10-2019,3,Away,0,SAC,Sacramento Kings,FALSE,94,101,Win,W 3,10:00p,3,DEN,Denver Nuggets
+201910280LAC,"Mon, Oct 28, 2019",28-10-2019,4,Home,1,CHO,Charlotte Hornets,FALSE,96,111,Win,W 1,10:30p,3,LAC,Los Angeles Clippers
+201910280SAS,"Mon, Oct 28, 2019",28-10-2019,3,Home,0,POR,Portland Trail Blazers,FALSE,110,113,Win,W 3,8:30p,3,SAS,San Antonio Spurs
+201910290DEN,"Tue, Oct 29, 2019",29-10-2019,4,Away,1,DEN,Denver Nuggets,FALSE,106,109,Win,W 1,9:00p,3,DAL,Dallas Mavericks
+201910290LAL,"Tue, Oct 29, 2019",29-10-2019,4,Home,1,MEM,Memphis Grizzlies,FALSE,91,120,Win,W 3,10:30p,3,LAL,Los Angeles Lakers
+201910290MIA,"Tue, Oct 29, 2019",29-10-2019,4,Home,1,ATL,Atlanta Hawks,FALSE,97,112,Win,W 1,7:30p,3,MIA,Miami Heat
+201910300TOR,"Wed, Oct 30, 2019",30-10-2019,5,Home,1,DET,Detroit Pistons,FALSE,113,125,Win,W 3,7:30p,4,TOR,Toronto Raptors
+201910300GSW,"Wed, Oct 30, 2019",30-10-2019,5,Away,2,GSW,Golden State Warriors,FALSE,110,121,Win,W 1,10:30p,3,PHO,Phoenix Suns
+201910300PHI,"Wed, Oct 30, 2019",30-10-2019,4,Home,0,MIN,Minnesota Timberwolves,FALSE,95,117,Win,W 4,7:00p,4,PHI,Philadelphia 76ers
+201910300CLE,"Wed, Oct 30, 2019",30-10-2019,5,Away,4,CLE,Cleveland Cavaliers,FALSE,117,111,Loss,L 3,7:00p,1,CHI,Chicago Bulls
+201910300BRK,"Wed, Oct 30, 2019",30-10-2019,4,Away,3,BRK,Brooklyn Nets,FALSE,108,118,Win,W 1,7:30p,1,IND,Indiana Pacers
+201910300ORL,"Wed, Oct 30, 2019",30-10-2019,5,Away,4,ORL,Orlando Magic,FALSE,95,83,Loss,L 1,7:00p,1,NYK,New York Knicks
+201910300SAC,"Wed, Oct 30, 2019",30-10-2019,5,Home,5,CHO,Charlotte Hornets,FALSE,118,111,Loss,L 5,10:00p,0,SAC,Sacramento Kings
+201910300BOS,"Wed, Oct 30, 2019",30-10-2019,4,Home,1,MIL,Milwaukee Bucks,FALSE,105,116,Win,W 3,7:30p,3,BOS,Boston Celtics
+201910300UTA,"Wed, Oct 30, 2019",30-10-2019,5,Home,1,LAC,Los Angeles Clippers,FALSE,96,110,Win,W 3,10:00p,4,UTA,Utah Jazz
+201910300WAS,"Wed, Oct 30, 2019",30-10-2019,4,Home,3,HOU,Houston Rockets,FALSE,159,158,Loss,L 2,8:00p,1,WAS,Washington Wizards
+201910300OKC,"Wed, Oct 30, 2019",30-10-2019,5,Home,4,POR,Portland Trail Blazers,FALSE,102,99,Loss,L 2,8:00p,1,OKC,Oklahoma City Thunder
+201910310NOP,"Thu, Oct 31, 2019",31-10-2019,5,Home,4,DEN,Denver Nuggets,FALSE,107,122,Win,W 1,9:30p,1,NOP,New Orleans Pelicans
+201910310ATL,"Thu, Oct 31, 2019",31-10-2019,5,Home,3,MIA,Miami Heat,FALSE,106,97,Loss,L 3,7:00p,2,ATL,Atlanta Hawks
+201910310LAC,"Thu, Oct 31, 2019",31-10-2019,6,Home,2,SAS,San Antonio Spurs,FALSE,97,103,Win,W 1,10:30p,4,LAC,Los Angeles Clippers
+201911010CHI,"Fri, Nov 1, 2019",01-11-2019,6,Away,4,CHI,Chicago Bulls,FALSE,112,106,Loss,L 2,8:00p,2,DET,Detroit Pistons
+201911010SAC,"Fri, Nov 1, 2019",01-11-2019,6,Home,5,UTA,Utah Jazz,FALSE,101,102,Win,W 1,10:00p,1,SAC,Sacramento Kings
+201911010ORL,"Fri, Nov 1, 2019",01-11-2019,5,Home,3,MIL,Milwaukee Bucks,FALSE,123,91,Loss,L 1,7:00p,2,ORL,Orlando Magic
+201911010GSW,"Fri, Nov 1, 2019",01-11-2019,5,Home,4,SAS,San Antonio Spurs,FALSE,127,110,Loss,L 2,10:30p,1,GSW,Golden State Warriors
+201911010BOS,"Fri, Nov 1, 2019",01-11-2019,6,Away,5,BOS,Boston Celtics,FALSE,104,102,Loss,L 2,7:30p,1,NYK,New York Knicks
+201911010BRK,"Fri, Nov 1, 2019",01-11-2019,5,Away,2,BRK,Brooklyn Nets,FALSE,123,116,Loss,L 1,7:00p,3,HOU,Houston Rockets
+201911010DAL,"Fri, Nov 1, 2019",01-11-2019,5,Away,1,DAL,Dallas Mavericks,FALSE,110,119,Win,W 4,9:30p,4,LAL,Los Angeles Lakers
+201911010IND,"Fri, Nov 1, 2019",01-11-2019,5,Home,3,CLE,Cleveland Cavaliers,FALSE,95,102,Win,W 2,7:00p,2,IND,Indiana Pacers
+201911020MIL,"Sat, Nov 2, 2019",02-11-2019,6,Away,2,MIL,Milwaukee Bucks,FALSE,115,105,Loss,L 1,8:00p,4,TOR,Toronto Raptors
+201911020POR,"Sat, Nov 2, 2019",02-11-2019,6,Home,3,PHI,Philadelphia 76ers,FALSE,129,128,Loss,L 1,10:00p,3,POR,Portland Trail Blazers
+201911020ORL,"Sat, Nov 2, 2019",02-11-2019,6,Home,4,DEN,Denver Nuggets,FALSE,91,87,Loss,L 2,7:00p,2,ORL,Orlando Magic
+201911020MEM,"Sat, Nov 2, 2019",02-11-2019,5,Home,4,PHO,Phoenix Suns,FALSE,114,105,Loss,L 2,8:00p,1,MEM,Memphis Grizzlies
+201911020OKC,"Sat, Nov 2, 2019",02-11-2019,6,Away,5,OKC,Oklahoma City Thunder,FALSE,115,104,Loss,L 1,5:00p,1,NOP,New Orleans Pelicans
+201911020GSW,"Sat, Nov 2, 2019",02-11-2019,6,Away,3,GSW,Golden State Warriors,FALSE,87,93,Win,W 2,8:30p,3,CHO,Charlotte Hornets
+201911020DET,"Sat, Nov 2, 2019",02-11-2019,6,Away,4,DET,Detroit Pistons,FALSE,113,109,Loss,L 1,7:00p,2,BRK,Brooklyn Nets
+201911020WAS,"Sat, Nov 2, 2019",02-11-2019,5,Away,1,WAS,Washington Wizards,FALSE,109,131,Win,W 1,8:00p,4,MIN,Minnesota Timberwolves
+201911030IND,"Sun, Nov 3, 2019",03-11-2019,6,Home,3,CHI,Chicago Bulls,FALSE,95,108,Win,W 3,5:00p,3,IND,Indiana Pacers
+201911030CLE,"Sun, Nov 3, 2019",03-11-2019,6,Home,4,DAL,Dallas Mavericks,FALSE,131,111,Loss,L 2,7:30p,2,CLE,Cleveland Cavaliers
+201911030NYK,"Sun, Nov 3, 2019",03-11-2019,7,Home,6,SAC,Sacramento Kings,FALSE,113,92,Loss,L 3,6:00p,1,NYK,New York Knicks
+201911030LAC,"Sun, Nov 3, 2019",03-11-2019,7,Away,3,LAC,Los Angeles Clippers,FALSE,105,94,Loss,L 2,9:00p,4,UTA,Utah Jazz
+201911030MIA,"Sun, Nov 3, 2019",03-11-2019,6,Away,3,MIA,Miami Heat,FALSE,129,100,Loss,L 2,6:00p,3,HOU,Houston Rockets
+201911030SAS,"Sun, Nov 3, 2019",03-11-2019,6,Home,2,LAL,Los Angeles Lakers,FALSE,103,96,Loss,L 1,7:00p,4,SAS,San Antonio Spurs
+201911040MIN,"Mon, Nov 4, 2019",04-11-2019,6,Home,2,MIL,Milwaukee Bucks,FALSE,134,106,Loss,L 1,8:00p,4,MIN,Minnesota Timberwolves
+201911040PHO,"Mon, Nov 4, 2019",04-11-2019,7,Home,2,PHI,Philadelphia 76ers,FALSE,109,114,Win,W 3,9:00p,5,PHO,Phoenix Suns
+201911040GSW,"Mon, Nov 4, 2019",04-11-2019,7,Away,4,GSW,Golden State Warriors,FALSE,127,118,Loss,L 2,10:30p,3,POR,Portland Trail Blazers
+201911040BRK,"Mon, Nov 4, 2019",04-11-2019,7,Home,4,NOP,New Orleans Pelicans,FALSE,125,135,Win,W 1,7:30p,3,BRK,Brooklyn Nets
+201911040MEM,"Mon, Nov 4, 2019",04-11-2019,6,Home,5,HOU,Houston Rockets,FALSE,107,100,Loss,L 3,8:00p,1,MEM,Memphis Grizzlies
+201911040WAS,"Mon, Nov 4, 2019",04-11-2019,6,Home,4,DET,Detroit Pistons,FALSE,99,115,Win,W 1,7:00p,2,WAS,Washington Wizards
+201911050CHO,"Tue, Nov 5, 2019",05-11-2019,7,Home,3,IND,Indiana Pacers,FALSE,120,122,Win,W 3,7:00p,4,CHO,Charlotte Hornets
+201911050CHI,"Tue, Nov 5, 2019",05-11-2019,7,Away,1,CHI,Chicago Bulls,FALSE,112,118,Win,W 6,8:00p,6,LAL,Los Angeles Lakers
+201911050OKC,"Tue, Nov 5, 2019",05-11-2019,7,Away,5,OKC,Oklahoma City Thunder,FALSE,102,94,Loss,L 3,8:00p,2,ORL,Orlando Magic
+201911050ATL,"Tue, Nov 5, 2019",05-11-2019,6,Home,3,SAS,San Antonio Spurs,FALSE,100,108,Win,W 1,7:30p,3,ATL,Atlanta Hawks
+201911050CLE,"Tue, Nov 5, 2019",05-11-2019,7,Home,5,BOS,Boston Celtics,FALSE,119,113,Loss,L 3,7:00p,2,CLE,Cleveland Cavaliers
+201911050DEN,"Tue, Nov 5, 2019",05-11-2019,7,Away,2,DEN,Denver Nuggets,FALSE,109,89,Loss,L 1,9:00p,5,MIA,Miami Heat
+201911060HOU,"Wed, Nov 6, 2019",06-11-2019,8,Home,3,GSW,Golden State Warriors,FALSE,112,129,Win,W 2,7:30p,5,HOU,Houston Rockets
+201911060MEM,"Wed, Nov 6, 2019",06-11-2019,7,Away,3,MEM,Memphis Grizzlies,FALSE,137,121,Loss,L 2,8:00p,4,MIN,Minnesota Timberwolves
+201911060UTA,"Wed, Nov 6, 2019",06-11-2019,7,Away,2,UTA,Utah Jazz,FALSE,106,104,Loss,L 2,9:00p,5,PHI,Philadelphia 76ers
+201911060DET,"Wed, Nov 6, 2019",06-11-2019,8,Away,7,DET,Detroit Pistons,FALSE,122,102,Loss,L 4,7:00p,1,NYK,New York Knicks
+201911060DAL,"Wed, Nov 6, 2019",06-11-2019,8,Away,6,DAL,Dallas Mavericks,FALSE,107,106,Loss,L 4,8:30p,2,ORL,Orlando Magic
+201911060TOR,"Wed, Nov 6, 2019",06-11-2019,8,Away,6,TOR,Toronto Raptors,FALSE,124,120,Loss,L 1,7:30p,2,SAC,Sacramento Kings
+201911060IND,"Wed, Nov 6, 2019",06-11-2019,8,Home,4,WAS,Washington Wizards,FALSE,106,121,Win,W 1,7:00p,4,IND,Indiana Pacers
+201911060ATL,"Wed, Nov 6, 2019",06-11-2019,9,Away,6,ATL,Atlanta Hawks,FALSE,93,113,Win,W 1,7:30p,3,CHI,Chicago Bulls
+201911060LAC,"Wed, Nov 6, 2019",06-11-2019,8,Home,3,MIL,Milwaukee Bucks,FALSE,129,124,Loss,L 1,10:00p,5,LAC,Los Angeles Clippers
+201911070SAS,"Thu, Nov 7, 2019",07-11-2019,8,Away,5,SAS,San Antonio Spurs,FALSE,121,112,Loss,L 1,8:30p,3,OKC,Oklahoma City Thunder
+201911070LAC,"Thu, Nov 7, 2019",07-11-2019,8,Away,5,LAC,Los Angeles Clippers,FALSE,107,101,Loss,L 3,10:30p,3,POR,Portland Trail Blazers
+201911070PHO,"Thu, Nov 7, 2019",07-11-2019,8,Home,3,MIA,Miami Heat,FALSE,124,108,Loss,L 1,9:00p,5,PHO,Phoenix Suns
+201911070CHO,"Thu, Nov 7, 2019",07-11-2019,7,Away,1,CHO,Charlotte Hornets,FALSE,87,108,Win,W 6,8:00p,6,BOS,Boston Celtics
+201911080ATL,"Fri, Nov 8, 2019",08-11-2019,9,Away,6,ATL,Atlanta Hawks,FALSE,109,121,Win,W 1,7:30p,3,SAC,Sacramento Kings
+201911080ORL,"Fri, Nov 8, 2019",08-11-2019,9,Home,6,MEM,Memphis Grizzlies,FALSE,86,118,Win,W 1,7:00p,3,ORL,Orlando Magic
+201911080IND,"Fri, Nov 8, 2019",08-11-2019,10,Away,6,IND,Indiana Pacers,FALSE,112,106,Loss,L 1,7:00p,4,DET,Detroit Pistons
+201911080WAS,"Fri, Nov 8, 2019",08-11-2019,8,Away,5,WAS,Washington Wizards,FALSE,100,113,Win,W 1,7:00p,3,CLE,Cleveland Cavaliers
+201911080LAL,"Fri, Nov 8, 2019",08-11-2019,8,Home,1,MIA,Miami Heat,FALSE,80,95,Win,W 7,10:30p,7,LAL,Los Angeles Lakers
+201911080DAL,"Fri, Nov 8, 2019",08-11-2019,8,Home,3,NYK,New York Knicks,FALSE,106,102,Loss,L 1,8:30p,5,DAL,Dallas Mavericks
+201911080MIN,"Fri, Nov 8, 2019",08-11-2019,9,Away,7,MIN,Minnesota Timberwolves,FALSE,125,119,Loss,L 2,8:00p,2,GSW,Golden State Warriors
+201911080UTA,"Fri, Nov 8, 2019",08-11-2019,9,Away,3,UTA,Utah Jazz,FALSE,103,100,Loss,L 1,9:00p,6,MIL,Milwaukee Bucks
+201911080POR,"Fri, Nov 8, 2019",08-11-2019,8,Away,4,POR,Portland Trail Blazers,FALSE,115,119,Win,W 2,10:00p,4,BRK,Brooklyn Nets
+201911080NOP,"Fri, Nov 8, 2019",08-11-2019,8,Away,2,NOP,New Orleans Pelicans,FALSE,104,122,Win,W 2,8:00p,6,TOR,Toronto Raptors
+201911080DEN,"Fri, Nov 8, 2019",08-11-2019,8,Home,2,PHI,Philadelphia 76ers,FALSE,97,100,Win,W 3,9:00p,6,DEN,Denver Nuggets
+201911090MEM,"Sat, Nov 9, 2019",09-11-2019,9,Away,3,MEM,Memphis Grizzlies,FALSE,122,138,Win,W 1,8:00p,6,DAL,Dallas Mavericks
+201911090OKC,"Sat, Nov 9, 2019",09-11-2019,9,Home,5,GSW,Golden State Warriors,FALSE,108,114,Win,W 1,8:00p,4,OKC,Oklahoma City Thunder
+201911090CHI,"Sat, Nov 9, 2019",09-11-2019,10,Home,7,HOU,Houston Rockets,FALSE,117,94,Loss,L 1,8:00p,3,CHI,Chicago Bulls
+201911090SAS,"Sat, Nov 9, 2019",09-11-2019,9,Home,4,BOS,Boston Celtics,FALSE,135,115,Loss,L 1,5:00p,5,SAS,San Antonio Spurs
+201911090CHO,"Sat, Nov 9, 2019",09-11-2019,9,Away,7,CHO,Charlotte Hornets,FALSE,110,115,Win,W 1,7:00p,2,NOP,New Orleans Pelicans
+201911100MIN,"Sun, Nov 10, 2019",10-11-2019,9,Home,4,DEN,Denver Nuggets,FALSE,100,98,Loss,L 1,3:30p,5,MIN,Minnesota Timberwolves
+201911100PHI,"Sun, Nov 10, 2019",10-11-2019,9,Home,3,CHO,Charlotte Hornets,FALSE,106,114,Win,W 1,6:00p,6,PHI,Philadelphia 76ers
+201911100PHO,"Sun, Nov 10, 2019",10-11-2019,9,Away,5,PHO,Phoenix Suns,FALSE,138,112,Loss,L 1,8:00p,4,BRK,Brooklyn Nets
+201911100POR,"Sun, Nov 10, 2019",10-11-2019,10,Home,6,ATL,Atlanta Hawks,FALSE,113,124,Win,W 1,9:00p,4,POR,Portland Trail Blazers
+201911100LAL,"Sun, Nov 10, 2019",10-11-2019,9,Away,2,LAL,Los Angeles Lakers,FALSE,104,113,Win,W 3,9:30p,7,TOR,Toronto Raptors
+201911100NYK,"Sun, Nov 10, 2019",10-11-2019,10,Home,8,CLE,Cleveland Cavaliers,FALSE,108,87,Loss,L 1,7:30p,2,NYK,New York Knicks
+201911100OKC,"Sun, Nov 10, 2019",10-11-2019,10,Away,3,OKC,Oklahoma City Thunder,FALSE,119,121,Win,W 1,7:00p,7,MIL,Milwaukee Bucks
+201911100ORL,"Sun, Nov 10, 2019",10-11-2019,10,Away,4,ORL,Orlando Magic,FALSE,102,109,Win,W 3,6:00p,6,IND,Indiana Pacers
+201911110BOS,"Mon, Nov 11, 2019",11-11-2019,10,Away,4,BOS,Boston Celtics,FALSE,116,106,Loss,L 1,7:30p,6,DAL,Dallas Mavericks
+201911110NOP,"Mon, Nov 11, 2019",11-11-2019,10,Away,3,NOP,New Orleans Pelicans,FALSE,116,122,Win,W 4,8:00p,7,HOU,Houston Rockets
+201911110GSW,"Mon, Nov 11, 2019",11-11-2019,10,Away,3,GSW,Golden State Warriors,FALSE,108,122,Win,W 3,10:30p,7,UTA,Utah Jazz
+201911110SAS,"Mon, Nov 11, 2019",11-11-2019,10,Away,7,SAS,San Antonio Spurs,FALSE,109,113,Win,W 1,7:30p,3,MEM,Memphis Grizzlies
+201911110DET,"Mon, Nov 11, 2019",11-11-2019,11,Home,7,MIN,Minnesota Timberwolves,FALSE,120,114,Loss,L 2,7:00p,4,DET,Detroit Pistons
+201911110LAC,"Mon, Nov 11, 2019",11-11-2019,10,Home,3,TOR,Toronto Raptors,FALSE,88,98,Win,W 2,10:30p,7,LAC,Los Angeles Clippers
+201911120DEN,"Tue, Nov 12, 2019",12-11-2019,10,Home,3,ATL,Atlanta Hawks,FALSE,125,121,Loss,L 1,9:00p,7,DEN,Denver Nuggets
+201911120MIA,"Tue, Nov 12, 2019",12-11-2019,12,Away,8,MIA,Miami Heat,FALSE,117,108,Loss,L 3,7:30p,4,DET,Detroit Pistons
+201911120UTA,"Tue, Nov 12, 2019",12-11-2019,10,Away,6,UTA,Utah Jazz,FALSE,119,114,Loss,L 2,9:00p,4,BRK,Brooklyn Nets
+201911120PHO,"Tue, Nov 12, 2019",12-11-2019,10,Away,2,PHO,Phoenix Suns,FALSE,115,123,Win,W 1,9:00p,8,LAL,Los Angeles Lakers
+201911120IND,"Tue, Nov 12, 2019",12-11-2019,11,Away,7,IND,Indiana Pacers,FALSE,111,85,Loss,L 2,7:00p,4,OKC,Oklahoma City Thunder
+201911120CHI,"Tue, Nov 12, 2019",12-11-2019,11,Away,9,CHI,Chicago Bulls,FALSE,120,102,Loss,L 2,8:00p,2,NYK,New York Knicks
+201911120PHI,"Tue, Nov 12, 2019",12-11-2019,10,Away,6,PHI,Philadelphia 76ers,FALSE,98,97,Loss,L 1,7:00p,4,CLE,Cleveland Cavaliers
+201911120SAC,"Tue, Nov 12, 2019",12-11-2019,11,Away,7,SAC,Sacramento Kings,FALSE,107,99,Loss,L 1,10:00p,4,POR,Portland Trail Blazers
+201911130MIN,"Wed, Nov 13, 2019",13-11-2019,11,Home,4,SAS,San Antonio Spurs,FALSE,114,129,Win,W 2,8:00p,7,MIN,Minnesota Timberwolves
+201911130ORL,"Wed, Nov 13, 2019",13-11-2019,11,Home,7,PHI,Philadelphia 76ers,FALSE,97,112,Win,W 1,7:00p,4,ORL,Orlando Magic
+201911130CHO,"Wed, Nov 13, 2019",13-11-2019,11,Home,7,MEM,Memphis Grizzlies,FALSE,119,117,Loss,L 4,7:00p,4,CHO,Charlotte Hornets
+201911130LAL,"Wed, Nov 13, 2019",13-11-2019,11,Home,2,GSW,Golden State Warriors,FALSE,94,120,Win,W 2,10:00p,9,LAL,Los Angeles Lakers
+201911130POR,"Wed, Nov 13, 2019",13-11-2019,11,Away,3,POR,Portland Trail Blazers,FALSE,106,114,Win,W 1,10:00p,8,TOR,Toronto Raptors
+201911130BOS,"Wed, Nov 13, 2019",13-11-2019,10,Home,1,WAS,Washington Wizards,FALSE,133,140,Win,W 9,7:30p,9,BOS,Boston Celtics
+201911130HOU,"Wed, Nov 13, 2019",13-11-2019,11,Away,4,HOU,Houston Rockets,FALSE,102,93,Loss,L 1,7:30p,7,LAC,Los Angeles Clippers
+201911140NYK,"Thu, Nov 14, 2019",14-11-2019,12,Home,9,DAL,Dallas Mavericks,FALSE,103,106,Win,W 1,8:00p,3,NYK,New York Knicks
+201911140NOP,"Thu, Nov 14, 2019",14-11-2019,11,Home,8,LAC,Los Angeles Clippers,FALSE,127,132,Win,W 1,8:00p,3,NOP,New Orleans Pelicans
+201911140PHO,"Thu, Nov 14, 2019",14-11-2019,11,Home,4,ATL,Atlanta Hawks,FALSE,112,128,Win,W 1,9:00p,7,PHO,Phoenix Suns
+201911140MIL,"Thu, Nov 14, 2019",14-11-2019,11,Home,3,CHI,Chicago Bulls,FALSE,115,124,Win,W 2,8:00p,8,MIL,Milwaukee Bucks
+201911140DEN,"Thu, Nov 14, 2019",14-11-2019,11,Home,3,BRK,Brooklyn Nets,FALSE,93,101,Win,W 1,10:30p,8,DEN,Denver Nuggets
+201911140CLE,"Thu, Nov 14, 2019",14-11-2019,11,Away,3,CLE,Cleveland Cavaliers,FALSE,97,108,Win,W 2,6:00p,8,MIA,Miami Heat
+201911150CHO,"Fri, Nov 15, 2019",15-11-2019,12,Home,7,DET,Detroit Pistons,FALSE,106,109,Win,W 1,7:00p,5,CHO,Charlotte Hornets
+201911150GSW,"Fri, Nov 15, 2019",15-11-2019,13,Home,11,BOS,Boston Celtics,FALSE,105,100,Loss,L 6,10:30p,2,GSW,Golden State Warriors
+201911150LAL,"Fri, Nov 15, 2019",15-11-2019,11,Away,7,LAL,Los Angeles Lakers,FALSE,99,97,Loss,L 1,10:30p,4,SAC,Sacramento Kings
+201911150MEM,"Fri, Nov 15, 2019",15-11-2019,12,Home,7,UTA,Utah Jazz,FALSE,106,107,Win,W 3,8:00p,5,MEM,Memphis Grizzlies
+201911150ORL,"Fri, Nov 15, 2019",15-11-2019,12,Away,7,ORL,Orlando Magic,FALSE,111,109,Loss,L 4,7:00p,5,SAS,San Antonio Spurs
+201911150MIN,"Fri, Nov 15, 2019",15-11-2019,10,Away,7,MIN,Minnesota Timberwolves,FALSE,116,137,Win,W 1,8:00p,3,WAS,Washington Wizards
+201911150OKC,"Fri, Nov 15, 2019",15-11-2019,12,Away,5,OKC,Oklahoma City Thunder,FALSE,127,119,Loss,L 2,8:00p,7,PHI,Philadelphia 76ers
+201911150HOU,"Fri, Nov 15, 2019",15-11-2019,12,Home,3,IND,Indiana Pacers,FALSE,102,111,Win,W 6,8:00p,9,HOU,Houston Rockets
+201911160LAC,"Sat, Nov 16, 2019",16-11-2019,13,Home,5,ATL,Atlanta Hawks,FALSE,101,150,Win,W 1,10:30p,8,LAC,Los Angeles Clippers
+201911160CHI,"Sat, Nov 16, 2019",16-11-2019,12,Away,7,CHI,Chicago Bulls,FALSE,111,117,Win,W 1,6:00p,5,BRK,Brooklyn Nets
+201911160DAL,"Sat, Nov 16, 2019",16-11-2019,12,Home,5,TOR,Toronto Raptors,FALSE,102,110,Win,W 1,8:30p,7,DAL,Dallas Mavericks
+201911160MIA,"Sat, Nov 16, 2019",16-11-2019,12,Home,3,NOP,New Orleans Pelicans,FALSE,94,109,Win,W 3,8:00p,9,MIA,Miami Heat
+201911160NYK,"Sat, Nov 16, 2019",16-11-2019,13,Home,10,CHO,Charlotte Hornets,FALSE,103,102,Loss,L 1,7:30p,3,NYK,New York Knicks
+201911160MIN,"Sat, Nov 16, 2019",16-11-2019,13,Home,6,HOU,Houston Rockets,FALSE,125,105,Loss,L 2,8:00p,7,MIN,Minnesota Timberwolves
+201911160IND,"Sat, Nov 16, 2019",16-11-2019,13,Home,6,MIL,Milwaukee Bucks,FALSE,102,83,Loss,L 2,7:00p,7,IND,Indiana Pacers
+201911160SAS,"Sat, Nov 16, 2019",16-11-2019,13,Away,8,SAS,San Antonio Spurs,FALSE,116,121,Win,W 1,8:30p,5,POR,Portland Trail Blazers
+201911170MEM,"Sun, Nov 17, 2019",17-11-2019,13,Home,8,DEN,Denver Nuggets,FALSE,131,114,Loss,L 1,6:00p,5,MEM,Memphis Grizzlies
+201911170NOP,"Sun, Nov 17, 2019",17-11-2019,14,Away,12,NOP,New Orleans Pelicans,FALSE,108,100,Loss,L 7,7:00p,2,GSW,Golden State Warriors
+201911170ORL,"Sun, Nov 17, 2019",17-11-2019,13,Home,7,WAS,Washington Wizards,FALSE,121,125,Win,W 3,6:00p,6,ORL,Orlando Magic
+201911170LAL,"Sun, Nov 17, 2019",17-11-2019,13,Home,2,ATL,Atlanta Hawks,FALSE,101,122,Win,W 4,9:30p,11,LAL,Los Angeles Lakers
+201911170CLE,"Sun, Nov 17, 2019",17-11-2019,12,Home,8,PHI,Philadelphia 76ers,FALSE,114,95,Loss,L 3,3:00p,4,CLE,Cleveland Cavaliers
+201911170SAC,"Sun, Nov 17, 2019",17-11-2019,12,Home,7,BOS,Boston Celtics,FALSE,99,100,Win,W 1,3:30p,5,SAC,Sacramento Kings
+201911180CHI,"Mon, Nov 18, 2019",18-11-2019,14,Home,10,MIL,Milwaukee Bucks,FALSE,115,101,Loss,L 3,8:00p,4,CHI,Chicago Bulls
+201911180DAL,"Mon, Nov 18, 2019",18-11-2019,14,Away,9,DAL,Dallas Mavericks,FALSE,117,110,Loss,L 6,8:30p,5,SAS,San Antonio Spurs
+201911180HOU,"Mon, Nov 18, 2019",18-11-2019,14,Away,9,HOU,Houston Rockets,FALSE,132,108,Loss,L 1,8:00p,5,POR,Portland Trail Blazers
+201911180NYK,"Mon, Nov 18, 2019",18-11-2019,14,Home,10,CLE,Cleveland Cavaliers,FALSE,105,123,Win,W 1,7:00p,4,NYK,New York Knicks
+201911180PHO,"Mon, Nov 18, 2019",18-11-2019,13,Away,2,PHO,Phoenix Suns,FALSE,85,99,Win,W 1,9:00p,11,BOS,Boston Celtics
+201911180TOR,"Mon, Nov 18, 2019",18-11-2019,14,Away,8,TOR,Toronto Raptors,FALSE,132,96,Loss,L 1,7:30p,6,CHO,Charlotte Hornets
+201911180LAC,"Mon, Nov 18, 2019",18-11-2019,14,Home,5,OKC,Oklahoma City Thunder,FALSE,88,90,Win,W 2,10:30p,9,LAC,Los Angeles Clippers
+201911180BRK,"Mon, Nov 18, 2019",18-11-2019,14,Away,6,BRK,Brooklyn Nets,FALSE,86,115,Win,W 1,7:30p,8,IND,Indiana Pacers
+201911180UTA,"Mon, Nov 18, 2019",18-11-2019,13,Home,5,MIN,Minnesota Timberwolves,FALSE,112,102,Loss,L 2,9:00p,8,UTA,Utah Jazz
+201911190MEM,"Tue, Nov 19, 2019",19-11-2019,15,Away,12,MEM,Memphis Grizzlies,FALSE,95,114,Win,W 1,8:00p,3,GSW,Golden State Warriors
+201911190LAL,"Tue, Nov 19, 2019",19-11-2019,14,Away,9,LAL,Los Angeles Lakers,FALSE,112,107,Loss,L 2,10:30p,5,OKC,Oklahoma City Thunder
+201911190NOP,"Tue, Nov 19, 2019",19-11-2019,14,Home,9,POR,Portland Trail Blazers,FALSE,104,115,Win,W 2,8:00p,5,NOP,New Orleans Pelicans
+201911190SAC,"Tue, Nov 19, 2019",19-11-2019,13,Home,7,PHO,Phoenix Suns,FALSE,116,120,Win,W 2,10:00p,6,SAC,Sacramento Kings
+201911200DEN,"Wed, Nov 20, 2019",20-11-2019,15,Away,4,DEN,Denver Nuggets,FALSE,105,95,Loss,L 1,9:00p,11,HOU,Houston Rockets
+201911200CHI,"Wed, Nov 20, 2019",20-11-2019,14,Away,10,CHI,Chicago Bulls,FALSE,109,89,Loss,L 5,8:00p,4,DET,Detroit Pistons
+201911200MIA,"Wed, Nov 20, 2019",20-11-2019,13,Home,3,CLE,Cleveland Cavaliers,FALSE,100,124,Win,W 4,7:30p,10,MIA,Miami Heat
+201911200ATL,"Wed, Nov 20, 2019",20-11-2019,14,Home,10,MIL,Milwaukee Bucks,FALSE,135,127,Loss,L 4,7:30p,4,ATL,Atlanta Hawks
+201911200LAC,"Wed, Nov 20, 2019",20-11-2019,15,Home,5,BOS,Boston Celtics,FALSE,104,107,Win,W 3,10:00p,10,LAC,Los Angeles Clippers
+201911200BRK,"Wed, Nov 20, 2019",20-11-2019,15,Away,9,BRK,Brooklyn Nets,FALSE,101,91,Loss,L 2,7:30p,6,CHO,Charlotte Hornets
+201911200MIN,"Wed, Nov 20, 2019",20-11-2019,14,Away,5,MIN,Minnesota Timberwolves,FALSE,95,103,Win,W 1,8:00p,9,UTA,Utah Jazz
+201911200WAS,"Wed, Nov 20, 2019",20-11-2019,15,Away,10,WAS,Washington Wizards,FALSE,138,132,Loss,L 7,7:00p,5,SAS,San Antonio Spurs
+201911200PHI,"Wed, Nov 20, 2019",20-11-2019,14,Home,5,NYK,New York Knicks,FALSE,104,109,Win,W 2,7:00p,9,PHI,Philadelphia 76ers
+201911200TOR,"Wed, Nov 20, 2019",20-11-2019,14,Away,8,TOR,Toronto Raptors,FALSE,113,97,Loss,L 1,7:30p,6,ORL,Orlando Magic
+201911200DAL,"Wed, Nov 20, 2019",20-11-2019,14,Home,5,GSW,Golden State Warriors,FALSE,94,142,Win,W 3,7:30p,9,DAL,Dallas Mavericks
+201911210MIL,"Thu, Nov 21, 2019",21-11-2019,15,Home,3,POR,Portland Trail Blazers,FALSE,129,137,Win,W 6,8:00p,12,MIL,Milwaukee Bucks
+201911210PHO,"Thu, Nov 21, 2019",21-11-2019,14,Home,7,NOP,New Orleans Pelicans,FALSE,124,121,Loss,L 3,10:30p,7,PHO,Phoenix Suns
+201911220DAL,"Fri, Nov 22, 2019",22-11-2019,15,Away,11,DAL,Dallas Mavericks,FALSE,143,101,Loss,L 6,8:30p,4,CLE,Cleveland Cavaliers
+201911220DET,"Fri, Nov 22, 2019",22-11-2019,15,Home,10,ATL,Atlanta Hawks,FALSE,103,128,Win,W 1,7:00p,5,DET,Detroit Pistons
+201911220OKC,"Fri, Nov 22, 2019",22-11-2019,15,Away,2,OKC,Oklahoma City Thunder,FALSE,127,130,Win,W 6,8:00p,13,LAL,Los Angeles Lakers
+201911220DEN,"Fri, Nov 22, 2019",22-11-2019,14,Home,3,BOS,Boston Celtics,FALSE,92,96,Win,W 4,9:00p,11,DEN,Denver Nuggets
+201911220PHI,"Fri, Nov 22, 2019",22-11-2019,15,Home,5,SAS,San Antonio Spurs,FALSE,104,115,Win,W 3,8:00p,10,PHI,Philadelphia 76ers
+201911220WAS,"Fri, Nov 22, 2019",22-11-2019,13,Home,8,CHO,Charlotte Hornets,FALSE,118,125,Win,W 2,7:00p,5,WAS,Washington Wizards
+201911220LAC,"Fri, Nov 22, 2019",22-11-2019,16,Away,5,LAC,Los Angeles Clippers,FALSE,122,119,Loss,L 2,10:30p,11,HOU,Houston Rockets
+201911220UTA,"Fri, Nov 22, 2019",22-11-2019,17,Away,14,UTA,Utah Jazz,FALSE,113,109,Loss,L 2,9:00p,3,GSW,Golden State Warriors
+201911220BRK,"Fri, Nov 22, 2019",22-11-2019,14,Away,8,BRK,Brooklyn Nets,FALSE,116,97,Loss,L 1,7:30p,6,SAC,Sacramento Kings
+201911220CHI,"Fri, Nov 22, 2019",22-11-2019,16,Home,11,MIA,Miami Heat,FALSE,116,108,Loss,L 1,8:00p,5,CHI,Chicago Bulls
+201911230UTA,"Sat, Nov 23, 2019",23-11-2019,16,Home,5,NOP,New Orleans Pelicans,FALSE,120,128,Win,W 3,9:00p,11,UTA,Utah Jazz
+201911230MEM,"Sat, Nov 23, 2019",23-11-2019,16,Away,2,MEM,Memphis Grizzlies,FALSE,108,109,Win,W 7,8:00p,14,LAL,Los Angeles Lakers
+201911230IND,"Sat, Nov 23, 2019",23-11-2019,15,Home,6,ORL,Orlando Magic,FALSE,106,111,Win,W 2,7:00p,9,IND,Indiana Pacers
+201911230NYK,"Sat, Nov 23, 2019",23-11-2019,16,Home,12,SAS,San Antonio Spurs,FALSE,111,104,Loss,L 2,7:30p,4,NYK,New York Knicks
+201911230CLE,"Sat, Nov 23, 2019",23-11-2019,16,Home,11,POR,Portland Trail Blazers,FALSE,104,110,Win,W 1,8:00p,5,CLE,Cleveland Cavaliers
+201911230MIL,"Sat, Nov 23, 2019",23-11-2019,16,Away,11,MIL,Milwaukee Bucks,FALSE,104,90,Loss,L 1,8:30p,5,DET,Detroit Pistons
+201911230PHI,"Sat, Nov 23, 2019",23-11-2019,16,Home,5,MIA,Miami Heat,FALSE,86,113,Win,W 4,7:30p,11,PHI,Philadelphia 76ers
+201911230ATL,"Sat, Nov 23, 2019",23-11-2019,16,Home,12,TOR,Toronto Raptors,FALSE,119,116,Loss,L 6,7:30p,4,ATL,Atlanta Hawks
+201911230CHO,"Sat, Nov 23, 2019",23-11-2019,17,Home,11,CHI,Chicago Bulls,FALSE,116,115,Loss,L 4,7:00p,6,CHO,Charlotte Hornets
+201911230MIN,"Sat, Nov 23, 2019",23-11-2019,16,Home,8,PHO,Phoenix Suns,FALSE,100,98,Loss,L 2,5:00p,8,MIN,Minnesota Timberwolves
+201911240DEN,"Sun, Nov 24, 2019",24-11-2019,15,Home,3,PHO,Phoenix Suns,FALSE,104,116,Win,W 5,8:00p,12,DEN,Denver Nuggets
+201911240WAS,"Sun, Nov 24, 2019",24-11-2019,14,Home,9,SAC,Sacramento Kings,FALSE,113,106,Loss,L 1,6:00p,5,WAS,Washington Wizards
+201911240LAC,"Sun, Nov 24, 2019",24-11-2019,17,Home,5,NOP,New Orleans Pelicans,FALSE,109,134,Win,W 5,9:00p,12,LAC,Los Angeles Clippers
+201911240HOU,"Sun, Nov 24, 2019",24-11-2019,17,Home,6,DAL,Dallas Mavericks,FALSE,137,123,Loss,L 3,3:30p,11,HOU,Houston Rockets
+201911240NYK,"Sun, Nov 24, 2019",24-11-2019,16,Away,8,NYK,New York Knicks,FALSE,101,103,Win,W 3,6:00p,8,BRK,Brooklyn Nets
+201911250BOS,"Mon, Nov 25, 2019",25-11-2019,16,Away,9,BOS,Boston Celtics,FALSE,103,102,Loss,L 1,7:30p,7,SAC,Sacramento Kings
+201911250MIA,"Mon, Nov 25, 2019",25-11-2019,18,Away,12,MIA,Miami Heat,FALSE,117,100,Loss,L 5,7:30p,6,CHO,Charlotte Hornets
+201911250SAS,"Mon, Nov 25, 2019",25-11-2019,17,Away,2,SAS,San Antonio Spurs,FALSE,104,114,Win,W 8,8:30p,15,LAL,Los Angeles Lakers
+201911250TOR,"Mon, Nov 25, 2019",25-11-2019,16,Home,4,PHI,Philadelphia 76ers,FALSE,96,101,Win,W 4,7:30p,12,TOR,Toronto Raptors
+201911250DET,"Mon, Nov 25, 2019",25-11-2019,16,Away,10,DET,Detroit Pistons,FALSE,103,88,Loss,L 3,7:00p,6,ORL,Orlando Magic
+201911250CHI,"Mon, Nov 25, 2019",25-11-2019,18,Away,12,CHI,Chicago Bulls,FALSE,94,117,Win,W 1,8:00p,6,POR,Portland Trail Blazers
+201911250ATL,"Mon, Nov 25, 2019",25-11-2019,17,Away,8,ATL,Atlanta Hawks,FALSE,113,125,Win,W 1,7:30p,9,MIN,Minnesota Timberwolves
+201911250MIL,"Mon, Nov 25, 2019",25-11-2019,17,Away,6,MIL,Milwaukee Bucks,FALSE,122,118,Loss,L 1,8:00p,11,UTA,Utah Jazz
+201911250CLE,"Mon, Nov 25, 2019",25-11-2019,17,Home,12,BRK,Brooklyn Nets,FALSE,108,106,Loss,L 1,7:00p,5,CLE,Cleveland Cavaliers
+201911250IND,"Mon, Nov 25, 2019",25-11-2019,16,Home,6,MEM,Memphis Grizzlies,FALSE,114,126,Win,W 3,7:00p,10,IND,Indiana Pacers
+201911250GSW,"Mon, Nov 25, 2019",25-11-2019,18,Home,15,OKC,Oklahoma City Thunder,FALSE,100,97,Loss,L 3,10:30p,3,GSW,Golden State Warriors
+201911260DEN,"Tue, Nov 26, 2019",26-11-2019,15,Away,10,DEN,Denver Nuggets,FALSE,117,104,Loss,L 2,9:00p,5,WAS,Washington Wizards
+201911260DAL,"Tue, Nov 26, 2019",26-11-2019,17,Home,6,LAC,Los Angeles Clippers,FALSE,114,99,Loss,L 1,8:30p,11,DAL,Dallas Mavericks
+201911270PHI,"Wed, Nov 27, 2019",27-11-2019,18,Home,6,SAC,Sacramento Kings,FALSE,91,97,Win,W 1,7:00p,12,PHI,Philadelphia 76ers
+201911270POR,"Wed, Nov 27, 2019",27-11-2019,19,Home,12,OKC,Oklahoma City Thunder,FALSE,119,136,Win,W 2,10:00p,7,POR,Portland Trail Blazers
+201911270CLE,"Wed, Nov 27, 2019",27-11-2019,18,Home,13,ORL,Orlando Magic,FALSE,116,104,Loss,L 2,7:00p,5,CLE,Cleveland Cavaliers
+201911270BOS,"Wed, Nov 27, 2019",27-11-2019,18,Away,9,BOS,Boston Celtics,FALSE,121,110,Loss,L 1,7:00p,9,BRK,Brooklyn Nets
+201911270CHO,"Wed, Nov 27, 2019",27-11-2019,19,Home,12,DET,Detroit Pistons,FALSE,101,102,Win,W 1,7:00p,7,CHO,Charlotte Hornets
+201911270MEM,"Wed, Nov 27, 2019",27-11-2019,19,Away,5,MEM,Memphis Grizzlies,FALSE,119,121,Win,W 7,8:00p,14,LAC,Los Angeles Clippers
+201911270SAS,"Wed, Nov 27, 2019",27-11-2019,18,Away,8,SAS,San Antonio Spurs,FALSE,101,113,Win,W 2,8:30p,10,MIN,Minnesota Timberwolves
+201911270NOP,"Wed, Nov 27, 2019",27-11-2019,18,Away,2,NOP,New Orleans Pelicans,FALSE,110,114,Win,W 9,9:30p,16,LAL,Los Angeles Lakers
+201911270HOU,"Wed, Nov 27, 2019",27-11-2019,17,Away,5,HOU,Houston Rockets,FALSE,117,108,Loss,L 1,8:00p,12,MIA,Miami Heat
+201911270PHO,"Wed, Nov 27, 2019",27-11-2019,17,Home,9,WAS,Washington Wizards,FALSE,140,132,Loss,L 2,9:00p,8,PHO,Phoenix Suns
+201911270TOR,"Wed, Nov 27, 2019",27-11-2019,18,Away,14,TOR,Toronto Raptors,FALSE,126,98,Loss,L 4,7:30p,4,NYK,New York Knicks
+201911270IND,"Wed, Nov 27, 2019",27-11-2019,18,Away,7,IND,Indiana Pacers,FALSE,121,102,Loss,L 2,7:00p,11,UTA,Utah Jazz
+201911270MIL,"Wed, Nov 27, 2019",27-11-2019,18,Away,14,MIL,Milwaukee Bucks,FALSE,111,102,Loss,L 8,8:00p,4,ATL,Atlanta Hawks
+201911270GSW,"Wed, Nov 27, 2019",27-11-2019,19,Home,15,CHI,Chicago Bulls,FALSE,90,104,Win,W 1,10:30p,4,GSW,Golden State Warriors
+201911290CLE,"Fri, Nov 29, 2019",29-11-2019,19,Home,14,MIL,Milwaukee Bucks,FALSE,119,110,Loss,L 3,7:30p,5,CLE,Cleveland Cavaliers
+201911290MEM,"Fri, Nov 29, 2019",29-11-2019,19,Away,7,MEM,Memphis Grizzlies,FALSE,94,103,Win,W 1,8:00p,12,UTA,Utah Jazz
+201911290LAL,"Fri, Nov 29, 2019",29-11-2019,17,Away,11,LAL,Los Angeles Lakers,FALSE,125,103,Loss,L 1,10:30p,6,WAS,Washington Wizards
+201911290POR,"Fri, Nov 29, 2019",29-11-2019,20,Home,12,CHI,Chicago Bulls,FALSE,103,107,Win,W 3,10:00p,8,POR,Portland Trail Blazers
+201911290OKC,"Fri, Nov 29, 2019",29-11-2019,18,Home,11,NOP,New Orleans Pelicans,FALSE,104,109,Win,W 1,8:00p,7,OKC,Oklahoma City Thunder
+201911290MIA,"Fri, Nov 29, 2019",29-11-2019,20,Away,16,MIA,Miami Heat,FALSE,122,105,Loss,L 1,8:00p,4,GSW,Golden State Warriors
+201911290ORL,"Fri, Nov 29, 2019",29-11-2019,18,Away,4,ORL,Orlando Magic,FALSE,83,90,Win,W 6,7:00p,14,TOR,Toronto Raptors
+201911290BRK,"Fri, Nov 29, 2019",29-11-2019,19,Home,9,BOS,Boston Celtics,FALSE,107,112,Win,W 1,12:00p,10,BRK,Brooklyn Nets
+201911290PHO,"Fri, Nov 29, 2019",29-11-2019,18,Home,10,DAL,Dallas Mavericks,FALSE,120,113,Loss,L 3,9:00p,8,PHO,Phoenix Suns
+201911290SAS,"Fri, Nov 29, 2019",29-11-2019,20,Away,6,SAS,San Antonio Spurs,FALSE,107,97,Loss,L 1,8:30p,14,LAC,Los Angeles Clippers
+201911290IND,"Fri, Nov 29, 2019",29-11-2019,18,Home,6,ATL,Atlanta Hawks,FALSE,104,105,Win,W 5,8:00p,12,IND,Indiana Pacers
+201911290DET,"Fri, Nov 29, 2019",29-11-2019,20,Away,12,DET,Detroit Pistons,FALSE,107,110,Win,W 2,7:00p,8,CHO,Charlotte Hornets
+201911290NYK,"Fri, Nov 29, 2019",29-11-2019,19,Away,6,NYK,New York Knicks,FALSE,95,101,Win,W 2,7:30p,13,PHI,Philadelphia 76ers
+201911300SAC,"Sat, Nov 30, 2019",30-11-2019,17,Away,,SAC,Sacramento Kings,FALSE,,,Win,,5:00p,,DEN,Denver Nuggets
+201911300PHI,"Sat, Nov 30, 2019",30-11-2019,19,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+201911300HOU,"Sat, Nov 30, 2019",30-11-2019,20,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+201911300MIL,"Sat, Nov 30, 2019",30-11-2019,20,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+201912010TOR,"Sun, Dec 1, 2019",01-12-2019,19,Home,,UTA,Utah Jazz,FALSE,,,Win,,6:00p,,TOR,Toronto Raptors
+201912010LAC,"Sun, Dec 1, 2019",01-12-2019,21,Home,,WAS,Washington Wizards,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+201912010BRK,"Sun, Dec 1, 2019",01-12-2019,20,Home,,MIA,Miami Heat,FALSE,,,Win,,3:00p,,BRK,Brooklyn Nets
+201912010MIN,"Sun, Dec 1, 2019",01-12-2019,19,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,3:30p,,MEM,Memphis Grizzlies
+201912010LAL,"Sun, Dec 1, 2019",01-12-2019,20,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,4:00p,,LAL,Los Angeles Lakers
+201912010NYK,"Sun, Dec 1, 2019",01-12-2019,19,Away,,NYK,New York Knicks,FALSE,,,Win,,3:30p,,BOS,Boston Celtics
+201912010DET,"Sun, Dec 1, 2019",01-12-2019,21,Away,,DET,Detroit Pistons,FALSE,,,Win,,5:00p,,SAS,San Antonio Spurs
+201912010NOP,"Sun, Dec 1, 2019",01-12-2019,19,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,5:00p,,OKC,Oklahoma City Thunder
+201912010ORL,"Sun, Dec 1, 2019",01-12-2019,19,Home,,GSW,Golden State Warriors,FALSE,,,Win,,6:00p,,ORL,Orlando Magic
+201912020PHI,"Mon, Dec 2, 2019",02-12-2019,21,Home,,UTA,Utah Jazz,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+201912020CHO,"Mon, Dec 2, 2019",02-12-2019,22,Home,,PHO,Phoenix Suns,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+201912020SAC,"Mon, Dec 2, 2019",02-12-2019,19,Home,,CHI,Chicago Bulls,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+201912020MEM,"Mon, Dec 2, 2019",02-12-2019,20,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,IND,Indiana Pacers
+201912020MIL,"Mon, Dec 2, 2019",02-12-2019,21,Home,,NYK,New York Knicks,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+201912020ATL,"Mon, Dec 2, 2019",02-12-2019,21,Home,,GSW,Golden State Warriors,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+201912030WAS,"Tue, Dec 3, 2019",03-12-2019,19,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+201912030SAS,"Tue, Dec 3, 2019",03-12-2019,22,Home,,HOU,Houston Rockets,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+201912030LAC,"Tue, Dec 3, 2019",03-12-2019,22,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,LAC,Los Angeles Clippers
+201912030NOP,"Tue, Dec 3, 2019",03-12-2019,21,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,7:30p,,NOP,New Orleans Pelicans
+201912030DEN,"Tue, Dec 3, 2019",03-12-2019,21,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,LAL,Los Angeles Lakers
+201912030CLE,"Tue, Dec 3, 2019",03-12-2019,21,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+201912030TOR,"Tue, Dec 3, 2019",03-12-2019,20,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+201912040OKC,"Wed, Dec 4, 2019",04-12-2019,20,Home,,IND,Indiana Pacers,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+201912040BOS,"Wed, Dec 4, 2019",04-12-2019,21,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+201912040UTA,"Wed, Dec 4, 2019",04-12-2019,22,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+201912040POR,"Wed, Dec 4, 2019",04-12-2019,22,Home,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+201912040ORL,"Wed, Dec 4, 2019",04-12-2019,20,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,PHO,Phoenix Suns
+201912040ATL,"Wed, Dec 4, 2019",04-12-2019,21,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+201912040DAL,"Wed, Dec 4, 2019",04-12-2019,21,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+201912040DET,"Wed, Dec 4, 2019",04-12-2019,22,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,MIL,Milwaukee Bucks
+201912040CHO,"Wed, Dec 4, 2019",04-12-2019,23,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,GSW,Golden State Warriors
+201912040CHI,"Wed, Dec 4, 2019",04-12-2019,22,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912050WAS,"Thu, Dec 5, 2019",05-12-2019,22,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+201912050NYK,"Thu, Dec 5, 2019",05-12-2019,19,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,DEN,Denver Nuggets
+201912050TOR,"Thu, Dec 5, 2019",05-12-2019,21,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,HOU,Houston Rockets
+201912050NOP,"Thu, Dec 5, 2019",05-12-2019,21,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,PHO,Phoenix Suns
+201912060CLE,"Fri, Dec 6, 2019",06-12-2019,22,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+201912060BOS,"Fri, Dec 6, 2019",06-12-2019,21,Home,,DEN,Denver Nuggets,FALSE,,,Win,,8:00p,,BOS,Boston Celtics
+201912060CHI,"Fri, Dec 6, 2019",06-12-2019,23,Home,,GSW,Golden State Warriors,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912060MIA,"Fri, Dec 6, 2019",06-12-2019,22,Home,,WAS,Washington Wizards,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+201912060POR,"Fri, Dec 6, 2019",06-12-2019,23,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,POR,Portland Trail Blazers
+201912060DET,"Fri, Dec 6, 2019",06-12-2019,23,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+201912060CHO,"Fri, Dec 6, 2019",06-12-2019,22,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,BRK,Brooklyn Nets
+201912060OKC,"Fri, Dec 6, 2019",06-12-2019,21,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+201912060SAS,"Fri, Dec 6, 2019",06-12-2019,21,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,SAC,Sacramento Kings
+201912060MIL,"Fri, Dec 6, 2019",06-12-2019,23,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:30p,,MIL,Milwaukee Bucks
+201912070DAL,"Sat, Dec 7, 2019",07-12-2019,22,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,2:00p,,DAL,Dallas Mavericks
+201912070HOU,"Sat, Dec 7, 2019",07-12-2019,22,Home,,PHO,Phoenix Suns,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+201912070NYK,"Sat, Dec 7, 2019",07-12-2019,23,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,IND,Indiana Pacers
+201912070UTA,"Sat, Dec 7, 2019",07-12-2019,23,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,10:00p,,UTA,Utah Jazz
+201912070PHI,"Sat, Dec 7, 2019",07-12-2019,22,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,CLE,Cleveland Cavaliers
+201912080PHI,"Sun, Dec 8, 2019",08-12-2019,24,Home,,TOR,Toronto Raptors,FALSE,,,Win,,6:00p,,PHI,Philadelphia 76ers
+201912080MIA,"Sun, Dec 8, 2019",08-12-2019,24,Away,,MIA,Miami Heat,FALSE,,,Win,,6:00p,,CHI,Chicago Bulls
+201912080POR,"Sun, Dec 8, 2019",08-12-2019,24,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,9:00p,,POR,Portland Trail Blazers
+201912080WAS,"Sun, Dec 8, 2019",08-12-2019,24,Away,,WAS,Washington Wizards,FALSE,,,Win,,6:00p,,LAC,Los Angeles Clippers
+201912080CHO,"Sun, Dec 8, 2019",08-12-2019,23,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,5:00p,,ATL,Atlanta Hawks
+201912080LAL,"Sun, Dec 8, 2019",08-12-2019,24,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,9:30p,,LAL,Los Angeles Lakers
+201912080BRK,"Sun, Dec 8, 2019",08-12-2019,23,Home,,DEN,Denver Nuggets,FALSE,,,Win,,3:00p,,BRK,Brooklyn Nets
+201912080DAL,"Sun, Dec 8, 2019",08-12-2019,22,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,7:00p,,SAC,Sacramento Kings
+201912090HOU,"Mon, Dec 9, 2019",09-12-2019,23,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+201912090BOS,"Mon, Dec 9, 2019",09-12-2019,22,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+201912090MIL,"Mon, Dec 9, 2019",09-12-2019,23,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,ORL,Orlando Magic
+201912090PHO,"Mon, Dec 9, 2019",09-12-2019,23,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+201912090CHI,"Mon, Dec 9, 2019",09-12-2019,25,Home,,TOR,Toronto Raptors,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912090GSW,"Mon, Dec 9, 2019",09-12-2019,25,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+201912090UTA,"Mon, Dec 9, 2019",09-12-2019,24,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+201912090IND,"Mon, Dec 9, 2019",09-12-2019,25,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,LAC,Los Angeles Clippers
+201912090NOP,"Mon, Dec 9, 2019",09-12-2019,24,Home,,DET,Detroit Pistons,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+201912100MIA,"Tue, Dec 10, 2019",10-12-2019,24,Away,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+201912100POR,"Tue, Dec 10, 2019",10-12-2019,24,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,NYK,New York Knicks
+201912100PHI,"Tue, Dec 10, 2019",10-12-2019,22,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,DEN,Denver Nuggets
+201912100CHO,"Tue, Dec 10, 2019",10-12-2019,26,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+201912110MIL,"Wed, Dec 11, 2019",11-12-2019,25,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,9:30p,,NOP,New Orleans Pelicans
+201912110MIN,"Wed, Dec 11, 2019",11-12-2019,25,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,UTA,Utah Jazz
+201912110SAC,"Wed, Dec 11, 2019",11-12-2019,24,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,OKC,Oklahoma City Thunder
+201912110ORL,"Wed, Dec 11, 2019",11-12-2019,25,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,LAL,Los Angeles Lakers
+201912110IND,"Wed, Dec 11, 2019",11-12-2019,25,Home,,BOS,Boston Celtics,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+201912110PHO,"Wed, Dec 11, 2019",11-12-2019,24,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,MEM,Memphis Grizzlies
+201912110CLE,"Wed, Dec 11, 2019",11-12-2019,24,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,HOU,Houston Rockets
+201912110TOR,"Wed, Dec 11, 2019",11-12-2019,24,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+201912110BRK,"Wed, Dec 11, 2019",11-12-2019,24,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+201912110GSW,"Wed, Dec 11, 2019",11-12-2019,25,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,NYK,New York Knicks
+201912110CHI,"Wed, Dec 11, 2019",11-12-2019,25,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+201912120DET,"Thu, Dec 12, 2019",12-12-2019,24,Away,,DET,Detroit Pistons,FALSE,,,Win,,9:00p,,DAL,Dallas Mavericks
+201912120BOS,"Thu, Dec 12, 2019",12-12-2019,26,Away,,BOS,Boston Celtics,FALSE,,,Win,,8:00p,,PHI,Philadelphia 76ers
+201912120SAS,"Thu, Dec 12, 2019",12-12-2019,24,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+201912120DEN,"Thu, Dec 12, 2019",12-12-2019,23,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,10:30p,,DEN,Denver Nuggets
+201912130PHI,"Fri, Dec 13, 2019",13-12-2019,27,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+201912130CHI,"Fri, Dec 13, 2019",13-12-2019,27,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912130ATL,"Fri, Dec 13, 2019",13-12-2019,26,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+201912130SAC,"Fri, Dec 13, 2019",13-12-2019,26,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,NYK,New York Knicks
+201912130ORL,"Fri, Dec 13, 2019",13-12-2019,25,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,HOU,Houston Rockets
+201912130MIA,"Fri, Dec 13, 2019",13-12-2019,25,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+201912130MEM,"Fri, Dec 13, 2019",13-12-2019,25,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+201912130MIN,"Fri, Dec 13, 2019",13-12-2019,27,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,LAC,Los Angeles Clippers
+201912130UTA,"Fri, Dec 13, 2019",13-12-2019,27,Away,,UTA,Utah Jazz,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+201912140HOU,"Sat, Dec 14, 2019",14-12-2019,26,Away,,HOU,Houston Rockets,FALSE,,,Win,,9:00p,,DET,Detroit Pistons
+201912140DEN,"Sat, Dec 14, 2019",14-12-2019,24,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+201912140CHI,"Sat, Dec 14, 2019",14-12-2019,28,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912140TOR,"Sat, Dec 14, 2019",14-12-2019,25,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+201912140MIL,"Sat, Dec 14, 2019",14-12-2019,26,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:30p,,CLE,Cleveland Cavaliers
+201912140PHO,"Sat, Dec 14, 2019",14-12-2019,25,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,5:00p,,PHO,Phoenix Suns
+201912140MEM,"Sat, Dec 14, 2019",14-12-2019,24,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+201912140DAL,"Sat, Dec 14, 2019",14-12-2019,25,Home,,MIA,Miami Heat,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+201912150GSW,"Sun, Dec 15, 2019",15-12-2019,26,Away,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,SAC,Sacramento Kings
+201912150NOP,"Sun, Dec 15, 2019",15-12-2019,27,Home,,ORL,Orlando Magic,FALSE,,,Win,,3:30p,,NOP,New Orleans Pelicans
+201912150DEN,"Sun, Dec 15, 2019",15-12-2019,27,Away,,DEN,Denver Nuggets,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+201912150BRK,"Sun, Dec 15, 2019",15-12-2019,28,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,6:00p,,PHI,Philadelphia 76ers
+201912150IND,"Sun, Dec 15, 2019",15-12-2019,27,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,5:00p,,IND,Indiana Pacers
+201912150ATL,"Sun, Dec 15, 2019",15-12-2019,27,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,6:00p,,LAL,Los Angeles Lakers
+201912160OKC,"Mon, Dec 16, 2019",16-12-2019,29,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912160MIL,"Mon, Dec 16, 2019",16-12-2019,26,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,DAL,Dallas Mavericks
+201912160DET,"Mon, Dec 16, 2019",16-12-2019,25,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+201912160MEM,"Mon, Dec 16, 2019",16-12-2019,27,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+201912160PHO,"Mon, Dec 16, 2019",16-12-2019,26,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+201912160HOU,"Mon, Dec 16, 2019",16-12-2019,26,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,SAS,San Antonio Spurs
+201912160TOR,"Mon, Dec 16, 2019",16-12-2019,26,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+201912170UTA,"Tue, Dec 17, 2019",17-12-2019,27,Home,,ORL,Orlando Magic,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+201912170IND,"Tue, Dec 17, 2019",17-12-2019,28,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+201912170LAC,"Tue, Dec 17, 2019",17-12-2019,29,Home,,PHO,Phoenix Suns,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+201912170NOP,"Tue, Dec 17, 2019",17-12-2019,27,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+201912170CHO,"Tue, Dec 17, 2019",17-12-2019,30,Home,,SAC,Sacramento Kings,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+201912170NYK,"Tue, Dec 17, 2019",17-12-2019,28,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+201912180DAL,"Wed, Dec 18, 2019",18-12-2019,25,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,BOS,Boston Celtics
+201912180DET,"Wed, Dec 18, 2019",18-12-2019,28,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+201912180WAS,"Wed, Dec 18, 2019",18-12-2019,30,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,CHI,Chicago Bulls
+201912180DEN,"Wed, Dec 18, 2019",18-12-2019,28,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,ORL,Orlando Magic
+201912180POR,"Wed, Dec 18, 2019",18-12-2019,29,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+201912180OKC,"Wed, Dec 18, 2019",18-12-2019,28,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+201912180MIN,"Wed, Dec 18, 2019",18-12-2019,26,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+201912180CLE,"Wed, Dec 18, 2019",18-12-2019,28,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+201912180PHI,"Wed, Dec 18, 2019",18-12-2019,28,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+201912190ATL,"Thu, Dec 19, 2019",19-12-2019,29,Home,,UTA,Utah Jazz,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+201912190LAC,"Thu, Dec 19, 2019",19-12-2019,28,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,HOU,Houston Rockets
+201912190SAS,"Thu, Dec 19, 2019",19-12-2019,28,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,BRK,Brooklyn Nets
+201912190MIL,"Thu, Dec 19, 2019",19-12-2019,29,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+201912200MIA,"Fri, Dec 20, 2019",20-12-2019,29,Home,,NYK,New York Knicks,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+201912200DEN,"Fri, Dec 20, 2019",20-12-2019,27,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,MIN,Minnesota Timberwolves
+201912200OKC,"Fri, Dec 20, 2019",20-12-2019,28,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,PHO,Phoenix Suns
+201912200IND,"Fri, Dec 20, 2019",20-12-2019,29,Home,,SAC,Sacramento Kings,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+201912200GSW,"Fri, Dec 20, 2019",20-12-2019,30,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+201912200POR,"Fri, Dec 20, 2019",20-12-2019,29,Home,,ORL,Orlando Magic,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+201912200BOS,"Fri, Dec 20, 2019",20-12-2019,26,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+201912200CLE,"Fri, Dec 20, 2019",20-12-2019,29,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,MEM,Memphis Grizzlies
+201912200TOR,"Fri, Dec 20, 2019",20-12-2019,27,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,WAS,Washington Wizards
+201912200PHI,"Fri, Dec 20, 2019",20-12-2019,28,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:00p,,DAL,Dallas Mavericks
+201912210NYK,"Sat, Dec 21, 2019",21-12-2019,30,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+201912210PHO,"Sat, Dec 21, 2019",21-12-2019,29,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,HOU,Houston Rockets
+201912210CHO,"Sat, Dec 21, 2019",21-12-2019,29,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,5:00p,,UTA,Utah Jazz
+201912210DET,"Sat, Dec 21, 2019",21-12-2019,30,Home,,CHI,Chicago Bulls,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+201912210MEM,"Sat, Dec 21, 2019",21-12-2019,29,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,SAC,Sacramento Kings
+201912210BRK,"Sat, Dec 21, 2019",21-12-2019,29,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,6:00p,,BRK,Brooklyn Nets
+201912210SAS,"Sat, Dec 21, 2019",21-12-2019,28,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+201912210PHI,"Sat, Dec 21, 2019",21-12-2019,28,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+201912210POR,"Sat, Dec 21, 2019",21-12-2019,30,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+201912220LAL,"Sun, Dec 22, 2019",22-12-2019,30,Home,,DEN,Denver Nuggets,FALSE,,,Win,,9:30p,,LAL,Los Angeles Lakers
+201912220MIL,"Sun, Dec 22, 2019",22-12-2019,31,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,MIL,Milwaukee Bucks
+201912220TOR,"Sun, Dec 22, 2019",22-12-2019,29,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,3:30p,,TOR,Toronto Raptors
+201912220OKC,"Sun, Dec 22, 2019",22-12-2019,29,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,7:00p,,OKC,Oklahoma City Thunder
+201912220BOS,"Sun, Dec 22, 2019",22-12-2019,33,Away,,BOS,Boston Celtics,FALSE,,,Win,,6:00p,,CHO,Charlotte Hornets
+201912230GSW,"Mon, Dec 23, 2019",23-12-2019,29,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,MIN,Minnesota Timberwolves
+201912230MEM,"Mon, Dec 23, 2019",23-12-2019,29,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,SAS,San Antonio Spurs
+201912230MIA,"Mon, Dec 23, 2019",23-12-2019,30,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,UTA,Utah Jazz
+201912230DET,"Mon, Dec 23, 2019",23-12-2019,32,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+201912230POR,"Mon, Dec 23, 2019",23-12-2019,31,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+201912230ORL,"Mon, Dec 23, 2019",23-12-2019,30,Home,,CHI,Chicago Bulls,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+201912230CLE,"Mon, Dec 23, 2019",23-12-2019,30,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+201912230IND,"Mon, Dec 23, 2019",23-12-2019,30,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+201912230SAC,"Mon, Dec 23, 2019",23-12-2019,30,Home,,HOU,Houston Rockets,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+201912230NYK,"Mon, Dec 23, 2019",23-12-2019,31,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,NYK,New York Knicks
+201912230PHO,"Mon, Dec 23, 2019",23-12-2019,30,Home,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+201912250GSW,"Wed, Dec 25, 2019",25-12-2019,32,Home,,HOU,Houston Rockets,FALSE,,,Win,,5:00p,,GSW,Golden State Warriors
+201912250PHI,"Wed, Dec 25, 2019",25-12-2019,33,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,2:30p,,PHI,Philadelphia 76ers
+201912250LAL,"Wed, Dec 25, 2019",25-12-2019,31,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,LAL,Los Angeles Lakers
+201912250TOR,"Wed, Dec 25, 2019",25-12-2019,28,Away,,TOR,Toronto Raptors,FALSE,,,Win,,12:00p,,BOS,Boston Celtics
+201912250DEN,"Wed, Dec 25, 2019",25-12-2019,32,Away,,DEN,Denver Nuggets,FALSE,,,Win,,10:30p,,NOP,New Orleans Pelicans
+201912260DET,"Thu, Dec 26, 2019",26-12-2019,32,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+201912260SAC,"Thu, Dec 26, 2019",26-12-2019,30,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,MIN,Minnesota Timberwolves
+201912260DAL,"Thu, Dec 26, 2019",26-12-2019,30,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+201912260OKC,"Thu, Dec 26, 2019",26-12-2019,30,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+201912260UTA,"Thu, Dec 26, 2019",26-12-2019,32,Away,,UTA,Utah Jazz,FALSE,,,Win,,10:30p,,POR,Portland Trail Blazers
+201912260BRK,"Thu, Dec 26, 2019",26-12-2019,30,Home,,NYK,New York Knicks,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+201912270CHO,"Fri, Dec 27, 2019",27-12-2019,34,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+201912270GSW,"Fri, Dec 27, 2019",27-12-2019,33,Home,,PHO,Phoenix Suns,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+201912270BOS,"Fri, Dec 27, 2019",27-12-2019,31,Away,,BOS,Boston Celtics,FALSE,,,Win,,4:00p,,CLE,Cleveland Cavaliers
+201912270ORL,"Fri, Dec 27, 2019",27-12-2019,34,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+201912270MIA,"Fri, Dec 27, 2019",27-12-2019,31,Home,,IND,Indiana Pacers,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+201912270ATL,"Fri, Dec 27, 2019",27-12-2019,32,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+201912280MIL,"Sat, Dec 28, 2019",28-12-2019,34,Home,,ORL,Orlando Magic,FALSE,,,Win,,8:30p,,MIL,Milwaukee Bucks
+201912280SAC,"Sat, Dec 28, 2019",28-12-2019,32,Away,,SAC,Sacramento Kings,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+201912280LAC,"Sat, Dec 28, 2019",28-12-2019,34,Home,,UTA,Utah Jazz,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+201912280BOS,"Sat, Dec 28, 2019",28-12-2019,30,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+201912280MIA,"Sat, Dec 28, 2019",28-12-2019,35,Away,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,PHI,Philadelphia 76ers
+201912280NOP,"Sat, Dec 28, 2019",28-12-2019,33,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,NOP,New Orleans Pelicans
+201912280CHI,"Sat, Dec 28, 2019",28-12-2019,33,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+201912280GSW,"Sat, Dec 28, 2019",28-12-2019,34,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,GSW,Golden State Warriors
+201912280DEN,"Sat, Dec 28, 2019",28-12-2019,31,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,5:00p,,DEN,Denver Nuggets
+201912280WAS,"Sat, Dec 28, 2019",28-12-2019,33,Away,,WAS,Washington Wizards,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+201912280SAS,"Sat, Dec 28, 2019",28-12-2019,31,Home,,DET,Detroit Pistons,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+201912280MIN,"Sat, Dec 28, 2019",28-12-2019,32,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,CLE,Cleveland Cavaliers
+201912280HOU,"Sat, Dec 28, 2019",28-12-2019,31,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+201912280POR,"Sat, Dec 28, 2019",28-12-2019,33,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+201912290LAL,"Sun, Dec 29, 2019",29-12-2019,33,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,9:30p,,LAL,Los Angeles Lakers
+201912290DEN,"Sun, Dec 29, 2019",29-12-2019,32,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+201912290NOP,"Sun, Dec 29, 2019",29-12-2019,33,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+201912290TOR,"Sun, Dec 29, 2019",29-12-2019,33,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,6:00p,,TOR,Toronto Raptors
+201912290MEM,"Sun, Dec 29, 2019",29-12-2019,34,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+201912300POR,"Mon, Dec 30, 2019",30-12-2019,33,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,PHO,Phoenix Suns
+201912300ORL,"Mon, Dec 30, 2019",30-12-2019,33,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+201912300UTA,"Mon, Dec 30, 2019",30-12-2019,34,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,DET,Detroit Pistons
+201912300CHI,"Mon, Dec 30, 2019",30-12-2019,34,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+201912300WAS,"Mon, Dec 30, 2019",30-12-2019,32,Home,,MIA,Miami Heat,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+201912300MIN,"Mon, Dec 30, 2019",30-12-2019,32,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+201912310SAC,"Tue, Dec 31, 2019",31-12-2019,35,Away,,SAC,Sacramento Kings,FALSE,,,Win,,5:00p,,LAC,Los Angeles Clippers
+201912310CHO,"Tue, Dec 31, 2019",31-12-2019,31,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,3:00p,,BOS,Boston Celtics
+201912310IND,"Tue, Dec 31, 2019",31-12-2019,34,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,3:00p,,IND,Indiana Pacers
+201912310TOR,"Tue, Dec 31, 2019",31-12-2019,34,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+201912310HOU,"Tue, Dec 31, 2019",31-12-2019,33,Away,,HOU,Houston Rockets,FALSE,,,Win,,7:00p,,DEN,Denver Nuggets
+201912310SAS,"Tue, Dec 31, 2019",31-12-2019,32,Home,,GSW,Golden State Warriors,FALSE,,,Win,,7:00p,,SAS,San Antonio Spurs
+201912310OKC,"Tue, Dec 31, 2019",31-12-2019,33,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202001010LAL,"Wed, Jan 1, 2020",01-01-2020,34,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,PHO,Phoenix Suns
+202001010NYK,"Wed, Jan 1, 2020",01-01-2020,35,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,POR,Portland Trail Blazers
+202001010MIL,"Wed, Jan 1, 2020",01-01-2020,33,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202001010WAS,"Wed, Jan 1, 2020",01-01-2020,34,Away,,WAS,Washington Wizards,FALSE,,,Win,,6:00p,,ORL,Orlando Magic
+202001020MIA,"Thu, Jan 2, 2020",02-01-2020,35,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202001020MIN,"Thu, Jan 2, 2020",02-01-2020,36,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,GSW,Golden State Warriors
+202001020CHI,"Thu, Jan 2, 2020",02-01-2020,35,Home,,UTA,Utah Jazz,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001020SAS,"Thu, Jan 2, 2020",02-01-2020,34,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,OKC,Oklahoma City Thunder
+202001020CLE,"Thu, Jan 2, 2020",02-01-2020,37,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202001020DAL,"Thu, Jan 2, 2020",02-01-2020,34,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+202001020LAC,"Thu, Jan 2, 2020",02-01-2020,35,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,DET,Detroit Pistons
+202001020SAC,"Thu, Jan 2, 2020",02-01-2020,35,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202001020IND,"Thu, Jan 2, 2020",02-01-2020,34,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,DEN,Denver Nuggets
+202001030BOS,"Fri, Jan 3, 2020",03-01-2020,35,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:00p,,ATL,Atlanta Hawks
+202001030ORL,"Fri, Jan 3, 2020",03-01-2020,35,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,MIA,Miami Heat
+202001030LAL,"Fri, Jan 3, 2020",03-01-2020,35,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,10:30p,,LAL,Los Angeles Lakers
+202001030HOU,"Fri, Jan 3, 2020",03-01-2020,35,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202001030WAS,"Fri, Jan 3, 2020",03-01-2020,36,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,POR,Portland Trail Blazers
+202001030PHO,"Fri, Jan 3, 2020",03-01-2020,35,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,NYK,New York Knicks
+202001040ATL,"Sat, Jan 4, 2020",04-01-2020,36,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,IND,Indiana Pacers
+202001040CLE,"Sat, Jan 4, 2020",04-01-2020,35,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:30p,,CLE,Cleveland Cavaliers
+202001040BRK,"Sat, Jan 4, 2020",04-01-2020,34,Home,,TOR,Toronto Raptors,FALSE,,,Win,,6:00p,,BRK,Brooklyn Nets
+202001040WAS,"Sat, Jan 4, 2020",04-01-2020,35,Home,,DEN,Denver Nuggets,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+202001040LAC,"Sat, Jan 4, 2020",04-01-2020,37,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,3:30p,,LAC,Los Angeles Clippers
+202001040GSW,"Sat, Jan 4, 2020",04-01-2020,37,Home,,DET,Detroit Pistons,FALSE,,,Win,,8:30p,,GSW,Golden State Warriors
+202001040CHI,"Sat, Jan 4, 2020",04-01-2020,36,Home,,BOS,Boston Celtics,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001040MIL,"Sat, Jan 4, 2020",04-01-2020,37,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,MIL,Milwaukee Bucks
+202001040DAL,"Sat, Jan 4, 2020",04-01-2020,38,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,CHO,Charlotte Hornets
+202001040SAC,"Sat, Jan 4, 2020",04-01-2020,36,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,NOP,New Orleans Pelicans
+202001040ORL,"Sat, Jan 4, 2020",04-01-2020,36,Home,,UTA,Utah Jazz,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202001050CLE,"Sun, Jan 5, 2020",05-01-2020,35,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,MIN,Minnesota Timberwolves
+202001050MIA,"Sun, Jan 5, 2020",05-01-2020,37,Away,,MIA,Miami Heat,FALSE,,,Win,,6:00p,,POR,Portland Trail Blazers
+202001050LAC,"Sun, Jan 5, 2020",05-01-2020,36,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,3:30p,,NYK,New York Knicks
+202001050PHO,"Sun, Jan 5, 2020",05-01-2020,37,Away,,PHO,Phoenix Suns,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202001050LAL,"Sun, Jan 5, 2020",05-01-2020,37,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:00p,,DET,Detroit Pistons
+202001060SAC,"Mon, Jan 6, 2020",06-01-2020,38,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+202001060NOP,"Mon, Jan 6, 2020",06-01-2020,37,Home,,UTA,Utah Jazz,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202001060PHI,"Mon, Jan 6, 2020",06-01-2020,38,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202001060SAS,"Mon, Jan 6, 2020",06-01-2020,38,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,MIL,Milwaukee Bucks
+202001060CHO,"Mon, Jan 6, 2020",06-01-2020,37,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202001060DAL,"Mon, Jan 6, 2020",06-01-2020,36,Home,,CHI,Chicago Bulls,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+202001060ORL,"Mon, Jan 6, 2020",06-01-2020,35,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,BRK,Brooklyn Nets
+202001060WAS,"Mon, Jan 6, 2020",06-01-2020,36,Home,,BOS,Boston Celtics,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202001060ATL,"Mon, Jan 6, 2020",06-01-2020,36,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,DEN,Denver Nuggets
+202001070TOR,"Tue, Jan 7, 2020",07-01-2020,37,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+202001070BRK,"Tue, Jan 7, 2020",07-01-2020,36,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202001070PHO,"Tue, Jan 7, 2020",07-01-2020,37,Home,,SAC,Sacramento Kings,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202001070MEM,"Tue, Jan 7, 2020",07-01-2020,36,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202001070LAL,"Tue, Jan 7, 2020",07-01-2020,37,Home,,NYK,New York Knicks,FALSE,,,Win,,10:30p,,LAL,Los Angeles Lakers
+202001070CLE,"Tue, Jan 7, 2020",07-01-2020,37,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202001080CHO,"Wed, Jan 8, 2020",08-01-2020,40,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202001080DAL,"Wed, Jan 8, 2020",08-01-2020,37,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,7:30p,,DEN,Denver Nuggets
+202001080NOP,"Wed, Jan 8, 2020",08-01-2020,38,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001080BOS,"Wed, Jan 8, 2020",08-01-2020,35,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202001080UTA,"Wed, Jan 8, 2020",08-01-2020,38,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,NYK,New York Knicks
+202001080ORL,"Wed, Jan 8, 2020",08-01-2020,37,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202001080GSW,"Wed, Jan 8, 2020",08-01-2020,39,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+202001080ATL,"Wed, Jan 8, 2020",08-01-2020,38,Home,,HOU,Houston Rockets,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202001080IND,"Wed, Jan 8, 2020",08-01-2020,37,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,MIA,Miami Heat
+202001090DET,"Thu, Jan 9, 2020",09-01-2020,39,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202001090OKC,"Thu, Jan 9, 2020",09-01-2020,38,Home,,HOU,Houston Rockets,FALSE,,,Win,,9:30p,,OKC,Oklahoma City Thunder
+202001090PHI,"Thu, Jan 9, 2020",09-01-2020,36,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202001090MIN,"Thu, Jan 9, 2020",09-01-2020,39,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,POR,Portland Trail Blazers
+202001100WAS,"Fri, Jan 10, 2020",10-01-2020,38,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202001100UTA,"Fri, Jan 10, 2020",10-01-2020,38,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202001100SAC,"Fri, Jan 10, 2020",10-01-2020,40,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,MIL,Milwaukee Bucks
+202001100MEM,"Fri, Jan 10, 2020",10-01-2020,37,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,SAS,San Antonio Spurs
+202001100PHO,"Fri, Jan 10, 2020",10-01-2020,39,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,ORL,Orlando Magic
+202001100NYK,"Fri, Jan 10, 2020",10-01-2020,39,Away,,NYK,New York Knicks,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202001100DAL,"Fri, Jan 10, 2020",10-01-2020,38,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,LAL,Los Angeles Lakers
+202001100BRK,"Fri, Jan 10, 2020",10-01-2020,37,Home,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202001100CHI,"Fri, Jan 10, 2020",10-01-2020,39,Home,,IND,Indiana Pacers,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001100LAC,"Fri, Jan 10, 2020",10-01-2020,40,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202001110POR,"Sat, Jan 11, 2020",11-01-2020,40,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202001110BOS,"Sat, Jan 11, 2020",11-01-2020,37,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202001110DEN,"Sat, Jan 11, 2020",11-01-2020,39,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,CLE,Cleveland Cavaliers
+202001110DAL,"Sat, Jan 11, 2020",11-01-2020,39,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+202001110DET,"Sat, Jan 11, 2020",11-01-2020,40,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,CHI,Chicago Bulls
+202001110HOU,"Sat, Jan 11, 2020",11-01-2020,38,Away,,HOU,Houston Rockets,FALSE,,,Win,,5:00p,,MIN,Minnesota Timberwolves
+202001110OKC,"Sat, Jan 11, 2020",11-01-2020,39,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,LAL,Los Angeles Lakers
+202001120TOR,"Sun, Jan 12, 2020",12-01-2020,39,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,6:00p,,TOR,Toronto Raptors
+202001120PHO,"Sun, Jan 12, 2020",12-01-2020,42,Away,,PHO,Phoenix Suns,FALSE,,,Win,,8:00p,,CHO,Charlotte Hornets
+202001120NYK,"Sun, Jan 12, 2020",12-01-2020,40,Home,,MIA,Miami Heat,FALSE,,,Win,,3:30p,,NYK,New York Knicks
+202001120MEM,"Sun, Jan 12, 2020",12-01-2020,41,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,6:00p,,GSW,Golden State Warriors
+202001120BRK,"Sun, Jan 12, 2020",12-01-2020,38,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,6:00p,,BRK,Brooklyn Nets
+202001120WAS,"Sun, Jan 12, 2020",12-01-2020,39,Home,,UTA,Utah Jazz,FALSE,,,Win,,3:30p,,WAS,Washington Wizards
+202001120DEN,"Sun, Jan 12, 2020",12-01-2020,39,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202001130LAL,"Mon, Jan 13, 2020",13-01-2020,40,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,CLE,Cleveland Cavaliers
+202001130SAC,"Mon, Jan 13, 2020",13-01-2020,40,Home,,ORL,Orlando Magic,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202001130DET,"Mon, Jan 13, 2020",13-01-2020,41,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,NOP,New Orleans Pelicans
+202001130IND,"Mon, Jan 13, 2020",13-01-2020,41,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202001130BOS,"Mon, Jan 13, 2020",13-01-2020,41,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,CHI,Chicago Bulls
+202001130POR,"Mon, Jan 13, 2020",13-01-2020,41,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202001130MIN,"Mon, Jan 13, 2020",13-01-2020,39,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202001140MEM,"Tue, Jan 14, 2020",14-01-2020,41,Home,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202001140ATL,"Tue, Jan 14, 2020",14-01-2020,40,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,PHO,Phoenix Suns
+202001140GSW,"Tue, Jan 14, 2020",14-01-2020,40,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,DAL,Dallas Mavericks
+202001140LAC,"Tue, Jan 14, 2020",14-01-2020,41,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,CLE,Cleveland Cavaliers
+202001140BRK,"Tue, Jan 14, 2020",14-01-2020,40,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,UTA,Utah Jazz
+202001140MIL,"Tue, Jan 14, 2020",14-01-2020,41,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+202001150PHI,"Wed, Jan 15, 2020",15-01-2020,40,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,BRK,Brooklyn Nets
+202001150LAL,"Wed, Jan 15, 2020",15-01-2020,41,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,ORL,Orlando Magic
+202001150SAC,"Wed, Jan 15, 2020",15-01-2020,41,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,DAL,Dallas Mavericks
+202001150OKC,"Wed, Jan 15, 2020",15-01-2020,41,Home,,TOR,Toronto Raptors,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202001150HOU,"Wed, Jan 15, 2020",15-01-2020,42,Away,,HOU,Houston Rockets,FALSE,,,Win,,9:30p,,POR,Portland Trail Blazers
+202001150CHI,"Wed, Jan 15, 2020",15-01-2020,40,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+202001150DEN,"Wed, Jan 15, 2020",15-01-2020,44,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,CHO,Charlotte Hornets
+202001150BOS,"Wed, Jan 15, 2020",15-01-2020,39,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202001150MIN,"Wed, Jan 15, 2020",15-01-2020,40,Home,,IND,Indiana Pacers,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202001150MIA,"Wed, Jan 15, 2020",15-01-2020,39,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,SAS,San Antonio Spurs
+202001160GSW,"Thu, Jan 16, 2020",16-01-2020,41,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,DEN,Denver Nuggets
+202001160LAC,"Thu, Jan 16, 2020",16-01-2020,42,Home,,ORL,Orlando Magic,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+202001160NOP,"Thu, Jan 16, 2020",16-01-2020,41,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,UTA,Utah Jazz
+202001160MIL,"Thu, Jan 16, 2020",16-01-2020,43,Home,,BOS,Boston Celtics,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+202001160NYK,"Thu, Jan 16, 2020",16-01-2020,41,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,PHO,Phoenix Suns
+202001170SAS,"Fri, Jan 17, 2020",17-01-2020,42,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,ATL,Atlanta Hawks
+202001170DAL,"Fri, Jan 17, 2020",17-01-2020,42,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,9:30p,,DAL,Dallas Mavericks
+202001170OKC,"Fri, Jan 17, 2020",17-01-2020,42,Home,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202001170PHI,"Fri, Jan 17, 2020",17-01-2020,43,Home,,CHI,Chicago Bulls,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202001170TOR,"Fri, Jan 17, 2020",17-01-2020,41,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+202001170IND,"Fri, Jan 17, 2020",17-01-2020,42,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202001170MEM,"Fri, Jan 17, 2020",17-01-2020,42,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202001180UTA,"Sat, Jan 18, 2020",18-01-2020,42,Home,,SAC,Sacramento Kings,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202001180GSW,"Sat, Jan 18, 2020",18-01-2020,44,Home,,ORL,Orlando Magic,FALSE,,,Win,,8:30p,,GSW,Golden State Warriors
+202001180MIN,"Sat, Jan 18, 2020",18-01-2020,42,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,TOR,Toronto Raptors
+202001180BRK,"Sat, Jan 18, 2020",18-01-2020,41,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,6:00p,,BRK,Brooklyn Nets
+202001180HOU,"Sat, Jan 18, 2020",18-01-2020,42,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:30p,,LAL,Los Angeles Lakers
+202001180ATL,"Sat, Jan 18, 2020",18-01-2020,43,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202001180OKC,"Sat, Jan 18, 2020",18-01-2020,43,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,9:00p,,OKC,Oklahoma City Thunder
+202001180NYK,"Sat, Jan 18, 2020",18-01-2020,43,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202001180NOP,"Sat, Jan 18, 2020",18-01-2020,43,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,3:30p,,NOP,New Orleans Pelicans
+202001180CHI,"Sat, Jan 18, 2020",18-01-2020,44,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001180BOS,"Sat, Jan 18, 2020",18-01-2020,41,Home,,PHO,Phoenix Suns,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202001190DEN,"Sun, Jan 19, 2020",19-01-2020,42,Home,,IND,Indiana Pacers,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202001190SAS,"Sun, Jan 19, 2020",19-01-2020,41,Home,,MIA,Miami Heat,FALSE,,,Win,,3:00p,,SAS,San Antonio Spurs
+202001200PHO,"Mon, Jan 20, 2020",20-01-2020,43,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202001200MIA,"Mon, Jan 20, 2020",20-01-2020,43,Home,,SAC,Sacramento Kings,FALSE,,,Win,,5:00p,,MIA,Miami Heat
+202001200BOS,"Mon, Jan 20, 2020",20-01-2020,42,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+202001200WAS,"Mon, Jan 20, 2020",20-01-2020,44,Away,,WAS,Washington Wizards,FALSE,,,Win,,2:00p,,DET,Detroit Pistons
+202001200BRK,"Mon, Jan 20, 2020",20-01-2020,45,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,3:00p,,PHI,Philadelphia 76ers
+202001200ATL,"Mon, Jan 20, 2020",20-01-2020,43,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,2:30p,,TOR,Toronto Raptors
+202001200HOU,"Mon, Jan 20, 2020",20-01-2020,44,Away,,HOU,Houston Rockets,FALSE,,,Win,,5:00p,,OKC,Oklahoma City Thunder
+202001200POR,"Mon, Jan 20, 2020",20-01-2020,45,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+202001200MIN,"Mon, Jan 20, 2020",20-01-2020,43,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202001200CHO,"Mon, Jan 20, 2020",20-01-2020,45,Home,,ORL,Orlando Magic,FALSE,,,Win,,5:00p,,CHO,Charlotte Hornets
+202001200MEM,"Mon, Jan 20, 2020",20-01-2020,43,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,5:00p,,MEM,Memphis Grizzlies
+202001200CLE,"Mon, Jan 20, 2020",20-01-2020,44,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,5:00p,,NYK,New York Knicks
+202001200UTA,"Mon, Jan 20, 2020",20-01-2020,43,Home,,IND,Indiana Pacers,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202001200MIL,"Mon, Jan 20, 2020",20-01-2020,45,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,5:00p,,CHI,Chicago Bulls
+202001210DAL,"Tue, Jan 21, 2020",21-01-2020,44,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,LAC,Los Angeles Clippers
+202001220ORL,"Wed, Jan 22, 2020",22-01-2020,45,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202001220DET,"Wed, Jan 22, 2020",22-01-2020,45,Home,,SAC,Sacramento Kings,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202001220NYK,"Wed, Jan 22, 2020",22-01-2020,45,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202001220NOP,"Wed, Jan 22, 2020",22-01-2020,43,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,SAS,San Antonio Spurs
+202001220GSW,"Wed, Jan 22, 2020",22-01-2020,46,Home,,UTA,Utah Jazz,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+202001220HOU,"Wed, Jan 22, 2020",22-01-2020,43,Home,,DEN,Denver Nuggets,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202001220BOS,"Wed, Jan 22, 2020",22-01-2020,44,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,MEM,Memphis Grizzlies
+202001220MIA,"Wed, Jan 22, 2020",22-01-2020,43,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,WAS,Washington Wizards
+202001220CHI,"Wed, Jan 22, 2020",22-01-2020,46,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001220PHO,"Wed, Jan 22, 2020",22-01-2020,45,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,IND,Indiana Pacers
+202001220ATL,"Wed, Jan 22, 2020",22-01-2020,45,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,LAC,Los Angeles Clippers
+202001220TOR,"Wed, Jan 22, 2020",22-01-2020,46,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,PHI,Philadelphia 76ers
+202001230CLE,"Thu, Jan 23, 2020",23-01-2020,45,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202001230POR,"Thu, Jan 23, 2020",23-01-2020,44,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:30p,,DAL,Dallas Mavericks
+202001230BRK,"Thu, Jan 23, 2020",23-01-2020,45,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,8:00p,,LAL,Los Angeles Lakers
+202001240SAS,"Fri, Jan 24, 2020",24-01-2020,45,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,PHO,Phoenix Suns
+202001240MIA,"Fri, Jan 24, 2020",24-01-2020,45,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+202001240ORL,"Fri, Jan 24, 2020",24-01-2020,44,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202001240NOP,"Fri, Jan 24, 2020",24-01-2020,45,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202001240DET,"Fri, Jan 24, 2020",24-01-2020,46,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202001240MIN,"Fri, Jan 24, 2020",24-01-2020,45,Home,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202001240CHI,"Fri, Jan 24, 2020",24-01-2020,47,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001240CHO,"Fri, Jan 24, 2020",24-01-2020,46,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,3:00p,,MIL,Milwaukee Bucks
+202001240GSW,"Fri, Jan 24, 2020",24-01-2020,46,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,IND,Indiana Pacers
+202001240NYK,"Fri, Jan 24, 2020",24-01-2020,46,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202001240OKC,"Fri, Jan 24, 2020",24-01-2020,46,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+202001250UTA,"Sat, Jan 25, 2020",25-01-2020,45,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,5:00p,,UTA,Utah Jazz
+202001250PHI,"Sat, Jan 25, 2020",25-01-2020,47,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,8:30p,,PHI,Philadelphia 76ers
+202001250DET,"Sat, Jan 25, 2020",25-01-2020,47,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202001250CLE,"Sat, Jan 25, 2020",25-01-2020,46,Home,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,CLE,Cleveland Cavaliers
+202001250MIN,"Sat, Jan 25, 2020",25-01-2020,47,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202001260POR,"Sun, Jan 26, 2020",26-01-2020,47,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,9:00p,,IND,Indiana Pacers
+202001260ATL,"Sun, Jan 26, 2020",26-01-2020,47,Home,,WAS,Washington Wizards,FALSE,,,Win,,6:00p,,ATL,Atlanta Hawks
+202001260MEM,"Sun, Jan 26, 2020",26-01-2020,46,Home,,PHO,Phoenix Suns,FALSE,,,Win,,6:00p,,MEM,Memphis Grizzlies
+202001260DEN,"Sun, Jan 26, 2020",26-01-2020,45,Away,,DEN,Denver Nuggets,FALSE,,,Win,,3:30p,,HOU,Houston Rockets
+202001260SAS,"Sun, Jan 26, 2020",26-01-2020,46,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,4:00p,,TOR,Toronto Raptors
+202001260NYK,"Sun, Jan 26, 2020",26-01-2020,45,Away,,NYK,New York Knicks,FALSE,,,Win,,6:00p,,BRK,Brooklyn Nets
+202001260ORL,"Sun, Jan 26, 2020",26-01-2020,47,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,6:00p,,ORL,Orlando Magic
+202001260NOP,"Sun, Jan 26, 2020",26-01-2020,45,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,6:00p,,BOS,Boston Celtics
+202001270DET,"Mon, Jan 27, 2020",27-01-2020,47,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202001270OKC,"Mon, Jan 27, 2020",27-01-2020,46,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,DAL,Dallas Mavericks
+202001270MIN,"Mon, Jan 27, 2020",27-01-2020,46,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,SAC,Sacramento Kings
+202001270UTA,"Mon, Jan 27, 2020",27-01-2020,46,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,HOU,Houston Rockets
+202001270MIA,"Mon, Jan 27, 2020",27-01-2020,46,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202001270CHI,"Mon, Jan 27, 2020",27-01-2020,49,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202001280MIL,"Tue, Jan 28, 2020",28-01-2020,46,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+202001280MIA,"Tue, Jan 28, 2020",28-01-2020,47,Home,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202001280DAL,"Tue, Jan 28, 2020",28-01-2020,47,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,PHO,Phoenix Suns
+202001280CLE,"Tue, Jan 28, 2020",28-01-2020,48,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,NOP,New Orleans Pelicans
+202001280CHO,"Tue, Jan 28, 2020",28-01-2020,48,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,NYK,New York Knicks
+202001280LAL,"Tue, Jan 28, 2020",28-01-2020,48,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:00p,,LAC,Los Angeles Clippers
+202001280PHI,"Tue, Jan 28, 2020",28-01-2020,48,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,GSW,Golden State Warriors
+202001280MEM,"Tue, Jan 28, 2020",28-01-2020,47,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202001280TOR,"Tue, Jan 28, 2020",28-01-2020,47,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202001290SAS,"Wed, Jan 29, 2020",29-01-2020,47,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,UTA,Utah Jazz
+202001290BRK,"Wed, Jan 29, 2020",29-01-2020,49,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202001290IND,"Wed, Jan 29, 2020",29-01-2020,48,Home,,CHI,Chicago Bulls,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202001290NYK,"Wed, Jan 29, 2020",29-01-2020,49,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202001290SAC,"Wed, Jan 29, 2020",29-01-2020,47,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202001290POR,"Wed, Jan 29, 2020",29-01-2020,48,Home,,HOU,Houston Rockets,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202001300LAC,"Thu, Jan 30, 2020",30-01-2020,48,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,SAC,Sacramento Kings
+202001300DEN,"Thu, Jan 30, 2020",30-01-2020,48,Away,,DEN,Denver Nuggets,FALSE,,,Win,,10:30p,,UTA,Utah Jazz
+202001300BOS,"Thu, Jan 30, 2020",30-01-2020,47,Home,,GSW,Golden State Warriors,FALSE,,,Win,,8:00p,,BOS,Boston Celtics
+202001300CLE,"Thu, Jan 30, 2020",30-01-2020,49,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202001300WAS,"Thu, Jan 30, 2020",30-01-2020,47,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202001300ATL,"Thu, Jan 30, 2020",30-01-2020,49,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202001310NOP,"Fri, Jan 31, 2020",31-01-2020,49,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202001310HOU,"Fri, Jan 31, 2020",31-01-2020,48,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202001310PHO,"Fri, Jan 31, 2020",31-01-2020,48,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202001310LAL,"Fri, Jan 31, 2020",31-01-2020,49,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,POR,Portland Trail Blazers
+202001310MIL,"Fri, Jan 31, 2020",31-01-2020,48,Home,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,MIL,Milwaukee Bucks
+202001310BRK,"Fri, Jan 31, 2020",31-01-2020,47,Home,,CHI,Chicago Bulls,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202001310DET,"Fri, Jan 31, 2020",31-01-2020,49,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+202002010BOS,"Sat, Feb 1, 2020",01-02-2020,50,Away,,BOS,Boston Celtics,FALSE,,,Win,,8:30p,,PHI,Philadelphia 76ers
+202002010POR,"Sat, Feb 1, 2020",01-02-2020,49,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,UTA,Utah Jazz
+202002010ORL,"Sat, Feb 1, 2020",01-02-2020,48,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,MIA,Miami Heat
+202002010SAC,"Sat, Feb 1, 2020",01-02-2020,49,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202002010SAS,"Sat, Feb 1, 2020",01-02-2020,49,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,9:00p,,CHO,Charlotte Hornets
+202002010WAS,"Sat, Feb 1, 2020",01-02-2020,48,Away,,WAS,Washington Wizards,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+202002010DAL,"Sat, Feb 1, 2020",01-02-2020,50,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,ATL,Atlanta Hawks
+202002010LAC,"Sat, Feb 1, 2020",01-02-2020,48,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,3:30p,,MIN,Minnesota Timberwolves
+202002010IND,"Sat, Feb 1, 2020",01-02-2020,49,Home,,NYK,New York Knicks,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202002010CLE,"Sat, Feb 1, 2020",01-02-2020,50,Home,,GSW,Golden State Warriors,FALSE,,,Win,,8:00p,,CLE,Cleveland Cavaliers
+202002020TOR,"Sun, Feb 2, 2020",02-02-2020,52,Away,,TOR,Toronto Raptors,FALSE,,,Win,,3:00p,,CHI,Chicago Bulls
+202002020MIL,"Sun, Feb 2, 2020",02-02-2020,49,Home,,PHO,Phoenix Suns,FALSE,,,Win,,2:00p,,MIL,Milwaukee Bucks
+202002020DET,"Sun, Feb 2, 2020",02-02-2020,51,Home,,DEN,Denver Nuggets,FALSE,,,Win,,12:30p,,DET,Detroit Pistons
+202002020HOU,"Sun, Feb 2, 2020",02-02-2020,49,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,2:00p,,HOU,Houston Rockets
+202002030ATL,"Mon, Feb 3, 2020",03-02-2020,49,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+202002030MEM,"Mon, Feb 3, 2020",03-02-2020,52,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,DET,Detroit Pistons
+202002030LAC,"Mon, Feb 3, 2020",03-02-2020,49,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,SAS,San Antonio Spurs
+202002030IND,"Mon, Feb 3, 2020",03-02-2020,50,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,DAL,Dallas Mavericks
+202002030CLE,"Mon, Feb 3, 2020",03-02-2020,51,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,NYK,New York Knicks
+202002030SAC,"Mon, Feb 3, 2020",03-02-2020,50,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202002030WAS,"Mon, Feb 3, 2020",03-02-2020,49,Home,,GSW,Golden State Warriors,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202002030MIA,"Mon, Feb 3, 2020",03-02-2020,51,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,PHI,Philadelphia 76ers
+202002030CHO,"Mon, Feb 3, 2020",03-02-2020,50,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202002030BRK,"Mon, Feb 3, 2020",03-02-2020,50,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,PHO,Phoenix Suns
+202002040HOU,"Tue, Feb 4, 2020",04-02-2020,50,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202002040DEN,"Tue, Feb 4, 2020",04-02-2020,51,Away,,DEN,Denver Nuggets,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202002040NOP,"Tue, Feb 4, 2020",04-02-2020,51,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:30p,,NOP,New Orleans Pelicans
+202002040LAL,"Tue, Feb 4, 2020",04-02-2020,50,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,10:30p,,LAL,Los Angeles Lakers
+202002050DAL,"Wed, Feb 5, 2020",05-02-2020,51,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+202002050LAC,"Wed, Feb 5, 2020",05-02-2020,50,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,MIA,Miami Heat
+202002050UTA,"Wed, Feb 5, 2020",05-02-2020,52,Away,,UTA,Utah Jazz,FALSE,,,Win,,10:00p,,DEN,Denver Nuggets
+202002050BOS,"Wed, Feb 5, 2020",05-02-2020,51,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,ORL,Orlando Magic
+202002050OKC,"Wed, Feb 5, 2020",05-02-2020,52,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,CLE,Cleveland Cavaliers
+202002050MIN,"Wed, Feb 5, 2020",05-02-2020,52,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+202002050TOR,"Wed, Feb 5, 2020",05-02-2020,51,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202002050BRK,"Wed, Feb 5, 2020",05-02-2020,52,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,GSW,Golden State Warriors
+202002050DET,"Wed, Feb 5, 2020",05-02-2020,53,Home,,PHO,Phoenix Suns,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202002060NYK,"Thu, Feb 6, 2020",06-02-2020,52,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,ORL,Orlando Magic
+202002060POR,"Thu, Feb 6, 2020",06-02-2020,51,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,SAS,San Antonio Spurs
+202002060MIL,"Thu, Feb 6, 2020",06-02-2020,52,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,PHI,Philadelphia 76ers
+202002060CHI,"Thu, Feb 6, 2020",06-02-2020,53,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202002060LAL,"Thu, Feb 6, 2020",06-02-2020,51,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,HOU,Houston Rockets
+202002070PHI,"Fri, Feb 7, 2020",07-02-2020,52,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,MEM,Memphis Grizzlies
+202002070OKC,"Fri, Feb 7, 2020",07-02-2020,54,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,DET,Detroit Pistons
+202002070BOS,"Fri, Feb 7, 2020",07-02-2020,53,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202002070IND,"Fri, Feb 7, 2020",07-02-2020,52,Home,,TOR,Toronto Raptors,FALSE,,,Win,,8:00p,,IND,Indiana Pacers
+202002070SAC,"Fri, Feb 7, 2020",07-02-2020,51,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,MIA,Miami Heat
+202002070UTA,"Fri, Feb 7, 2020",07-02-2020,53,Away,,UTA,Utah Jazz,FALSE,,,Win,,10:30p,,POR,Portland Trail Blazers
+202002070PHO,"Fri, Feb 7, 2020",07-02-2020,52,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,HOU,Houston Rockets
+202002070WAS,"Fri, Feb 7, 2020",07-02-2020,50,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202002080IND,"Sat, Feb 8, 2020",08-02-2020,53,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,NOP,New Orleans Pelicans
+202002080ORL,"Sat, Feb 8, 2020",08-02-2020,53,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,5:00p,,ORL,Orlando Magic
+202002080TOR,"Sat, Feb 8, 2020",08-02-2020,51,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202002080PHO,"Sat, Feb 8, 2020",08-02-2020,53,Home,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202002080CHO,"Sat, Feb 8, 2020",08-02-2020,52,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202002080MIN,"Sat, Feb 8, 2020",08-02-2020,51,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202002080GSW,"Sat, Feb 8, 2020",08-02-2020,52,Away,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,LAL,Los Angeles Lakers
+202002080DET,"Sat, Feb 8, 2020",08-02-2020,55,Home,,NYK,New York Knicks,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202002080SAC,"Sat, Feb 8, 2020",08-02-2020,52,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,SAS,San Antonio Spurs
+202002090PHI,"Sun, Feb 9, 2020",09-02-2020,54,Home,,CHI,Chicago Bulls,FALSE,,,Win,,6:00p,,PHI,Philadelphia 76ers
+202002090WAS,"Sun, Feb 9, 2020",09-02-2020,51,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,6:00p,,WAS,Washington Wizards
+202002090OKC,"Sun, Feb 9, 2020",09-02-2020,53,Home,,BOS,Boston Celtics,FALSE,,,Win,,3:30p,,OKC,Oklahoma City Thunder
+202002090HOU,"Sun, Feb 9, 2020",09-02-2020,53,Home,,UTA,Utah Jazz,FALSE,,,Win,,7:00p,,HOU,Houston Rockets
+202002090CLE,"Sun, Feb 9, 2020",09-02-2020,54,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,LAC,Los Angeles Clippers
+202002090POR,"Sun, Feb 9, 2020",09-02-2020,54,Home,,MIA,Miami Heat,FALSE,,,Win,,9:00p,,POR,Portland Trail Blazers
+202002090ATL,"Sun, Feb 9, 2020",09-02-2020,54,Home,,NYK,New York Knicks,FALSE,,,Win,,6:00p,,ATL,Atlanta Hawks
+202002100DET,"Mon, Feb 10, 2020",10-02-2020,56,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202002100GSW,"Mon, Feb 10, 2020",10-02-2020,54,Home,,MIA,Miami Heat,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202002100MIL,"Mon, Feb 10, 2020",10-02-2020,53,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+202002100DAL,"Mon, Feb 10, 2020",10-02-2020,53,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,UTA,Utah Jazz
+202002100DEN,"Mon, Feb 10, 2020",10-02-2020,53,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,SAS,San Antonio Spurs
+202002100IND,"Mon, Feb 10, 2020",10-02-2020,52,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,BRK,Brooklyn Nets
+202002100TOR,"Mon, Feb 10, 2020",10-02-2020,52,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,MIN,Minnesota Timberwolves
+202002100ORL,"Mon, Feb 10, 2020",10-02-2020,54,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202002100LAL,"Mon, Feb 10, 2020",10-02-2020,54,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,PHO,Phoenix Suns
+202002110HOU,"Tue, Feb 11, 2020",11-02-2020,54,Home,,BOS,Boston Celtics,FALSE,,,Win,,9:30p,,HOU,Houston Rockets
+202002110OKC,"Tue, Feb 11, 2020",11-02-2020,54,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,SAS,San Antonio Spurs
+202002110WAS,"Tue, Feb 11, 2020",11-02-2020,52,Home,,CHI,Chicago Bulls,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202002110PHI,"Tue, Feb 11, 2020",11-02-2020,55,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,LAC,Los Angeles Clippers
+202002110NOP,"Tue, Feb 11, 2020",11-02-2020,54,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202002120DEN,"Wed, Feb 12, 2020",12-02-2020,54,Away,,DEN,Denver Nuggets,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202002120PHO,"Wed, Feb 12, 2020",12-02-2020,55,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,GSW,Golden State Warriors
+202002120ORL,"Wed, Feb 12, 2020",12-02-2020,55,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202002120UTA,"Wed, Feb 12, 2020",12-02-2020,54,Home,,MIA,Miami Heat,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202002120DAL,"Wed, Feb 12, 2020",12-02-2020,54,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,SAC,Sacramento Kings
+202002120NYK,"Wed, Feb 12, 2020",12-02-2020,53,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,WAS,Washington Wizards
+202002120BRK,"Wed, Feb 12, 2020",12-02-2020,55,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202002120CLE,"Wed, Feb 12, 2020",12-02-2020,56,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,ATL,Atlanta Hawks
+202002120IND,"Wed, Feb 12, 2020",12-02-2020,54,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,MIL,Milwaukee Bucks
+202002120MEM,"Wed, Feb 12, 2020",12-02-2020,54,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202002120MIN,"Wed, Feb 12, 2020",12-02-2020,53,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202002130NOP,"Thu, Feb 13, 2020",13-02-2020,55,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202002130BOS,"Thu, Feb 13, 2020",13-02-2020,54,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,BOS,Boston Celtics
+202002200SAC,"Thu, Feb 20, 2020",20-02-2020,55,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,MEM,Memphis Grizzlies
+202002200CHI,"Thu, Feb 20, 2020",20-02-2020,55,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,CHO,Charlotte Hornets
+202002200PHI,"Thu, Feb 20, 2020",20-02-2020,54,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+202002200DET,"Thu, Feb 20, 2020",20-02-2020,58,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202002200GSW,"Thu, Feb 20, 2020",20-02-2020,56,Home,,HOU,Houston Rockets,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202002200ATL,"Thu, Feb 20, 2020",20-02-2020,57,Home,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202002210OKC,"Fri, Feb 21, 2020",21-02-2020,56,Home,,DEN,Denver Nuggets,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202002210POR,"Fri, Feb 21, 2020",21-02-2020,56,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:30p,,NOP,New Orleans Pelicans
+202002210MIN,"Fri, Feb 21, 2020",21-02-2020,55,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,BOS,Boston Celtics
+202002210TOR,"Fri, Feb 21, 2020",21-02-2020,56,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,PHO,Phoenix Suns
+202002210NYK,"Fri, Feb 21, 2020",21-02-2020,56,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202002210LAL,"Fri, Feb 21, 2020",21-02-2020,56,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,MEM,Memphis Grizzlies
+202002210UTA,"Fri, Feb 21, 2020",21-02-2020,55,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202002210ORL,"Fri, Feb 21, 2020",21-02-2020,56,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202002210WAS,"Fri, Feb 21, 2020",21-02-2020,55,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202002220LAC,"Sat, Feb 22, 2020",22-02-2020,56,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,3:30p,,SAC,Sacramento Kings
+202002220MIA,"Sat, Feb 22, 2020",22-02-2020,56,Away,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,CLE,Cleveland Cavaliers
+202002220ATL,"Sat, Feb 22, 2020",22-02-2020,57,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,DAL,Dallas Mavericks
+202002220MIL,"Sat, Feb 22, 2020",22-02-2020,56,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:30p,,MIL,Milwaukee Bucks
+202002220UTA,"Sat, Feb 22, 2020",22-02-2020,56,Home,,HOU,Houston Rockets,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202002220CHI,"Sat, Feb 22, 2020",22-02-2020,57,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,PHO,Phoenix Suns
+202002220CHO,"Sat, Feb 22, 2020",22-02-2020,56,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202002230LAL,"Sun, Feb 23, 2020",23-02-2020,56,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,3:30p,,BOS,Boston Celtics
+202002230GSW,"Sun, Feb 23, 2020",23-02-2020,57,Away,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,NOP,New Orleans Pelicans
+202002230POR,"Sun, Feb 23, 2020",23-02-2020,59,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,9:00p,,DET,Detroit Pistons
+202002230TOR,"Sun, Feb 23, 2020",23-02-2020,57,Home,,IND,Indiana Pacers,FALSE,,,Win,,6:00p,,TOR,Toronto Raptors
+202002230DEN,"Sun, Feb 23, 2020",23-02-2020,57,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,6:00p,,DEN,Denver Nuggets
+202002230OKC,"Sun, Feb 23, 2020",23-02-2020,56,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:00p,,SAS,San Antonio Spurs
+202002230CHI,"Sun, Feb 23, 2020",23-02-2020,55,Away,,CHI,Chicago Bulls,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202002240PHI,"Mon, Feb 24, 2020",24-02-2020,59,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,ATL,Atlanta Hawks
+202002240DAL,"Mon, Feb 24, 2020",24-02-2020,56,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,MIN,Minnesota Timberwolves
+202002240BRK,"Mon, Feb 24, 2020",24-02-2020,56,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202002240UTA,"Mon, Feb 24, 2020",24-02-2020,58,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202002240WAS,"Mon, Feb 24, 2020",24-02-2020,56,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202002240HOU,"Mon, Feb 24, 2020",24-02-2020,57,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+202002240CLE,"Mon, Feb 24, 2020",24-02-2020,57,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,MIA,Miami Heat
+202002240LAC,"Mon, Feb 24, 2020",24-02-2020,58,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+202002250GSW,"Tue, Feb 25, 2020",25-02-2020,57,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,SAC,Sacramento Kings
+202002250POR,"Tue, Feb 25, 2020",25-02-2020,59,Home,,BOS,Boston Celtics,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202002250DEN,"Tue, Feb 25, 2020",25-02-2020,60,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,DET,Detroit Pistons
+202002250IND,"Tue, Feb 25, 2020",25-02-2020,58,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202002250CHI,"Tue, Feb 25, 2020",25-02-2020,59,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202002250LAL,"Tue, Feb 25, 2020",25-02-2020,57,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202002250TOR,"Tue, Feb 25, 2020",25-02-2020,58,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,MIL,Milwaukee Bucks
+202002260PHO,"Wed, Feb 26, 2020",26-02-2020,59,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,LAC,Los Angeles Clippers
+202002260CLE,"Wed, Feb 26, 2020",26-02-2020,58,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202002260HOU,"Wed, Feb 26, 2020",26-02-2020,58,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202002260ATL,"Wed, Feb 26, 2020",26-02-2020,58,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,ORL,Orlando Magic
+202002260SAS,"Wed, Feb 26, 2020",26-02-2020,57,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,7:30p,,SAS,San Antonio Spurs
+202002260CHO,"Wed, Feb 26, 2020",26-02-2020,58,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,NYK,New York Knicks
+202002260WAS,"Wed, Feb 26, 2020",26-02-2020,57,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202002260MIA,"Wed, Feb 26, 2020",26-02-2020,57,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,MIN,Minnesota Timberwolves
+202002260UTA,"Wed, Feb 26, 2020",26-02-2020,58,Home,,BOS,Boston Celtics,FALSE,,,Win,,10:00p,,UTA,Utah Jazz
+202002270PHI,"Thu, Feb 27, 2020",27-02-2020,60,Home,,NYK,New York Knicks,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202002270GSW,"Thu, Feb 27, 2020",27-02-2020,59,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202002270OKC,"Thu, Feb 27, 2020",27-02-2020,59,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202002270IND,"Thu, Feb 27, 2020",27-02-2020,60,Away,,IND,Indiana Pacers,FALSE,,,Win,,8:00p,,POR,Portland Trail Blazers
+202002280MIA,"Fri, Feb 28, 2020",28-02-2020,60,Away,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,DAL,Dallas Mavericks
+202002280MIL,"Fri, Feb 28, 2020",28-02-2020,60,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202002280MEM,"Fri, Feb 28, 2020",28-02-2020,59,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202002280NOP,"Fri, Feb 28, 2020",28-02-2020,59,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,CLE,Cleveland Cavaliers
+202002280ATL,"Fri, Feb 28, 2020",28-02-2020,58,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202002280TOR,"Fri, Feb 28, 2020",28-02-2020,59,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,CHO,Charlotte Hornets
+202002280ORL,"Fri, Feb 28, 2020",28-02-2020,59,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202002280PHO,"Fri, Feb 28, 2020",28-02-2020,61,Away,,PHO,Phoenix Suns,FALSE,,,Win,,9:00p,,DET,Detroit Pistons
+202002280LAC,"Fri, Feb 28, 2020",28-02-2020,60,Home,,DEN,Denver Nuggets,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+202002280UTA,"Fri, Feb 28, 2020",28-02-2020,58,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,WAS,Washington Wizards
+202002290SAS,"Sat, Feb 29, 2020",29-02-2020,60,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,ORL,Orlando Magic
+202002290BOS,"Sat, Feb 29, 2020",29-02-2020,59,Away,,BOS,Boston Celtics,FALSE,,,Win,,8:30p,,HOU,Houston Rockets
+202002290CLE,"Sat, Feb 29, 2020",29-02-2020,60,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,8:00p,,IND,Indiana Pacers
+202002290MEM,"Sat, Feb 29, 2020",29-02-2020,59,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,LAL,Los Angeles Lakers
+202002290ATL,"Sat, Feb 29, 2020",29-02-2020,61,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,POR,Portland Trail Blazers
+202002290PHO,"Sat, Feb 29, 2020",29-02-2020,61,Home,,GSW,Golden State Warriors,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202002290MIA,"Sat, Feb 29, 2020",29-02-2020,60,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202002290NYK,"Sat, Feb 29, 2020",29-02-2020,60,Home,,CHI,Chicago Bulls,FALSE,,,Win,,5:00p,,NYK,New York Knicks
+202003010DEN,"Sun, Mar 1, 2020",01-03-2020,60,Home,,TOR,Toronto Raptors,FALSE,,,Win,,6:00p,,DEN,Denver Nuggets
+202003010GSW,"Sun, Mar 1, 2020",01-03-2020,59,Away,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,WAS,Washington Wizards
+202003010LAC,"Sun, Mar 1, 2020",01-03-2020,61,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,3:30p,,LAC,Los Angeles Clippers
+202003010CHO,"Sun, Mar 1, 2020",01-03-2020,60,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,1:00p,,CHO,Charlotte Hornets
+202003010NOP,"Sun, Mar 1, 2020",01-03-2020,60,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,LAL,Los Angeles Lakers
+202003010SAC,"Sun, Mar 1, 2020",01-03-2020,62,Away,,SAC,Sacramento Kings,FALSE,,,Win,,6:00p,,DET,Detroit Pistons
+202003010MIN,"Sun, Mar 1, 2020",01-03-2020,59,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,3:30p,,MIN,Minnesota Timberwolves
+202003020ORL,"Mon, Mar 2, 2020",02-03-2020,61,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202003020CLE,"Mon, Mar 2, 2020",02-03-2020,61,Home,,UTA,Utah Jazz,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202003020MIA,"Mon, Mar 2, 2020",02-03-2020,61,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,MIL,Milwaukee Bucks
+202003020ATL,"Mon, Mar 2, 2020",02-03-2020,63,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202003020SAS,"Mon, Mar 2, 2020",02-03-2020,59,Home,,IND,Indiana Pacers,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+202003020NYK,"Mon, Mar 2, 2020",02-03-2020,60,Away,,NYK,New York Knicks,FALSE,,,Win,,7:00p,,HOU,Houston Rockets
+202003020CHI,"Mon, Mar 2, 2020",02-03-2020,61,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202003030OKC,"Tue, Mar 3, 2020",03-03-2020,62,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,LAC,Los Angeles Clippers
+202003030NOP,"Tue, Mar 3, 2020",03-03-2020,61,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202003030LAL,"Tue, Mar 3, 2020",03-03-2020,61,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202003030PHO,"Tue, Mar 3, 2020",03-03-2020,62,Home,,TOR,Toronto Raptors,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202003030DEN,"Tue, Mar 3, 2020",03-03-2020,61,Home,,GSW,Golden State Warriors,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202003030SAC,"Tue, Mar 3, 2020",03-03-2020,61,Home,,WAS,Washington Wizards,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202003030CHO,"Tue, Mar 3, 2020",03-03-2020,60,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,SAS,San Antonio Spurs
+202003030BOS,"Tue, Mar 3, 2020",03-03-2020,60,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+202003040CLE,"Wed, Mar 4, 2020",04-03-2020,62,Home,,BOS,Boston Celtics,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202003040MIN,"Wed, Mar 4, 2020",04-03-2020,61,Home,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202003040DAL,"Wed, Mar 4, 2020",04-03-2020,62,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,NOP,New Orleans Pelicans
+202003040MIA,"Wed, Mar 4, 2020",04-03-2020,62,Away,,MIA,Miami Heat,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202003040MIL,"Wed, Mar 4, 2020",04-03-2020,62,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,9:30p,,IND,Indiana Pacers
+202003040DET,"Wed, Mar 4, 2020",04-03-2020,63,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202003040BRK,"Wed, Mar 4, 2020",04-03-2020,61,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202003040NYK,"Wed, Mar 4, 2020",04-03-2020,61,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,UTA,Utah Jazz
+202003040POR,"Wed, Mar 4, 2020",04-03-2020,63,Home,,WAS,Washington Wizards,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202003050CHO,"Thu, Mar 5, 2020",05-03-2020,62,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,DEN,Denver Nuggets
+202003050HOU,"Thu, Mar 5, 2020",05-03-2020,61,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202003050SAC,"Thu, Mar 5, 2020",05-03-2020,63,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,PHI,Philadelphia 76ers
+202003050GSW,"Thu, Mar 5, 2020",05-03-2020,63,Home,,TOR,Toronto Raptors,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202003060BOS,"Fri, Mar 6, 2020",06-03-2020,62,Away,,BOS,Boston Celtics,FALSE,,,Win,,8:00p,,UTA,Utah Jazz
+202003060DAL,"Fri, Mar 6, 2020",06-03-2020,63,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,MEM,Memphis Grizzlies
+202003060NOP,"Fri, Mar 6, 2020",06-03-2020,63,Home,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202003060PHO,"Fri, Mar 6, 2020",06-03-2020,63,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,9:00p,,PHO,Phoenix Suns
+202003060MIN,"Fri, Mar 6, 2020",06-03-2020,63,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,ORL,Orlando Magic
+202003060LAL,"Fri, Mar 6, 2020",06-03-2020,62,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,10:30p,,LAL,Los Angeles Lakers
+202003060CHI,"Fri, Mar 6, 2020",06-03-2020,63,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,IND,Indiana Pacers
+202003060WAS,"Fri, Mar 6, 2020",06-03-2020,62,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202003060NYK,"Fri, Mar 6, 2020",06-03-2020,63,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,OKC,Oklahoma City Thunder
+202003060BRK,"Fri, Mar 6, 2020",06-03-2020,62,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202003070POR,"Sat, Mar 7, 2020",07-03-2020,65,Home,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202003070CHO,"Sat, Mar 7, 2020",07-03-2020,63,Home,,HOU,Houston Rockets,FALSE,,,Win,,5:00p,,CHO,Charlotte Hornets
+202003070CLE,"Sat, Mar 7, 2020",07-03-2020,63,Home,,DEN,Denver Nuggets,FALSE,,,Win,,7:30p,,CLE,Cleveland Cavaliers
+202003070MEM,"Sat, Mar 7, 2020",07-03-2020,65,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,ATL,Atlanta Hawks
+202003070GSW,"Sat, Mar 7, 2020",07-03-2020,64,Away,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,PHI,Philadelphia 76ers
+202003070DET,"Sat, Mar 7, 2020",07-03-2020,64,Home,,UTA,Utah Jazz,FALSE,,,Win,,7:00p,,DET,Detroit Pistons
+202003080SAC,"Sun, Mar 8, 2020",08-03-2020,64,Home,,TOR,Toronto Raptors,FALSE,,,Win,,9:00p,,SAC,Sacramento Kings
+202003080NYK,"Sun, Mar 8, 2020",08-03-2020,65,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202003080LAC,"Sun, Mar 8, 2020",08-03-2020,64,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,3:30p,,LAC,Los Angeles Clippers
+202003080DAL,"Sun, Mar 8, 2020",08-03-2020,64,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202003080BRK,"Sun, Mar 8, 2020",08-03-2020,63,Home,,CHI,Chicago Bulls,FALSE,,,Win,,3:00p,,BRK,Brooklyn Nets
+202003080HOU,"Sun, Mar 8, 2020",08-03-2020,63,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,HOU,Houston Rockets
+202003080CLE,"Sun, Mar 8, 2020",08-03-2020,64,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,7:30p,,CLE,Cleveland Cavaliers
+202003080MIN,"Sun, Mar 8, 2020",08-03-2020,63,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,3:30p,,MIN,Minnesota Timberwolves
+202003080BOS,"Sun, Mar 8, 2020",08-03-2020,63,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,6:00p,,BOS,Boston Celtics
+202003080PHO,"Sun, Mar 8, 2020",08-03-2020,64,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,6:00p,,PHO,Phoenix Suns
+202003080WAS,"Sun, Mar 8, 2020",08-03-2020,63,Home,,MIA,Miami Heat,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202003090DEN,"Mon, Mar 9, 2020",09-03-2020,65,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,MIL,Milwaukee Bucks
+202003090ATL,"Mon, Mar 9, 2020",09-03-2020,64,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,CHO,Charlotte Hornets
+202003090UTA,"Mon, Mar 9, 2020",09-03-2020,64,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,TOR,Toronto Raptors
+202003100SAS,"Tue, Mar 10, 2020",10-03-2020,66,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:00p,,DAL,Dallas Mavericks
+202003100POR,"Tue, Mar 10, 2020",10-03-2020,65,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,PHO,Phoenix Suns
+202003100HOU,"Tue, Mar 10, 2020",10-03-2020,64,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202003100IND,"Tue, Mar 10, 2020",10-03-2020,64,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202003100GSW,"Tue, Mar 10, 2020",10-03-2020,65,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+202003100WAS,"Tue, Mar 10, 2020",10-03-2020,65,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,NYK,New York Knicks
+202003100CHI,"Tue, Mar 10, 2020",10-03-2020,65,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202003100LAL,"Tue, Mar 10, 2020",10-03-2020,64,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,10:30p,,LAL,Los Angeles Lakers
+202003100MEM,"Tue, Mar 10, 2020",10-03-2020,65,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,ORL,Orlando Magic
+202003110MIA,"Wed, Mar 11, 2020",11-03-2020,65,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202003110DAL,"Wed, Mar 11, 2020",11-03-2020,67,Home,,DEN,Denver Nuggets,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+202003110OKC,"Wed, Mar 11, 2020",11-03-2020,65,Home,,UTA,Utah Jazz,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202003110PHI,"Wed, Mar 11, 2020",11-03-2020,66,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202003110ATL,"Wed, Mar 11, 2020",11-03-2020,66,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202003110SAC,"Wed, Mar 11, 2020",11-03-2020,65,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202003120MIL,"Thu, Mar 12, 2020",12-03-2020,65,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,BOS,Boston Celtics
+202003120ORL,"Thu, Mar 12, 2020",12-03-2020,66,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,CHI,Chicago Bulls
+202003120LAL,"Thu, Mar 12, 2020",12-03-2020,65,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,HOU,Houston Rockets
+202003120GSW,"Thu, Mar 12, 2020",12-03-2020,65,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,BRK,Brooklyn Nets
+202003120POR,"Thu, Mar 12, 2020",12-03-2020,66,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,MEM,Memphis Grizzlies
+202003130OKC,"Fri, Mar 13, 2020",13-03-2020,66,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202003130LAC,"Fri, Mar 13, 2020",13-03-2020,66,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,BRK,Brooklyn Nets
+202003130MIA,"Fri, Mar 13, 2020",13-03-2020,67,Away,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+202003130SAS,"Fri, Mar 13, 2020",13-03-2020,64,Home,,DEN,Denver Nuggets,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+202003130UTA,"Fri, Mar 13, 2020",13-03-2020,66,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,NOP,New Orleans Pelicans
+202003130BOS,"Fri, Mar 13, 2020",13-03-2020,66,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+202003130CHO,"Fri, Mar 13, 2020",13-03-2020,66,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202003140ATL,"Sat, Mar 14, 2020",14-03-2020,68,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202003140TOR,"Sat, Mar 14, 2020",14-03-2020,65,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202003140SAS,"Sat, Mar 14, 2020",14-03-2020,65,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+202003140UTA,"Sat, Mar 14, 2020",14-03-2020,67,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,MEM,Memphis Grizzlies
+202003140MIL,"Sat, Mar 14, 2020",14-03-2020,67,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:30p,,GSW,Golden State Warriors
+202003140PHI,"Sat, Mar 14, 2020",14-03-2020,66,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,IND,Indiana Pacers
+202003140DAL,"Sat, Mar 14, 2020",14-03-2020,68,Home,,PHO,Phoenix Suns,FALSE,,,Win,,2:00p,,DAL,Dallas Mavericks
+202003140LAC,"Sat, Mar 14, 2020",14-03-2020,67,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,NOP,New Orleans Pelicans
+202003140MIA,"Sat, Mar 14, 2020",14-03-2020,67,Home,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+202003150POR,"Sun, Mar 15, 2020",15-03-2020,66,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,3:30p,,HOU,Houston Rockets
+202003150WAS,"Sun, Mar 15, 2020",15-03-2020,67,Away,,WAS,Washington Wizards,FALSE,,,Win,,6:00p,,OKC,Oklahoma City Thunder
+202003150CHI,"Sun, Mar 15, 2020",15-03-2020,68,Home,,BOS,Boston Celtics,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202003150LAL,"Sun, Mar 15, 2020",15-03-2020,67,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202003150ORL,"Sun, Mar 15, 2020",15-03-2020,67,Away,,ORL,Orlando Magic,FALSE,,,Win,,6:00p,,CHO,Charlotte Hornets
+202003150SAC,"Sun, Mar 15, 2020",15-03-2020,67,Away,,SAC,Sacramento Kings,FALSE,,,Win,,9:00p,,BRK,Brooklyn Nets
+202003160UTA,"Mon, Mar 16, 2020",16-03-2020,67,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,LAL,Los Angeles Lakers
+202003160SAS,"Mon, Mar 16, 2020",16-03-2020,68,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,MEM,Memphis Grizzlies
+202003160TOR,"Mon, Mar 16, 2020",16-03-2020,68,Away,,TOR,Toronto Raptors,FALSE,,,Win,,8:00p,,GSW,Golden State Warriors
+202003160NOP,"Mon, Mar 16, 2020",16-03-2020,68,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202003160LAC,"Mon, Mar 16, 2020",16-03-2020,69,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,DAL,Dallas Mavericks
+202003160PHI,"Mon, Mar 16, 2020",16-03-2020,67,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202003160MIL,"Mon, Mar 16, 2020",16-03-2020,68,Home,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+202003170SAC,"Tue, Mar 17, 2020",17-03-2020,70,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,DAL,Dallas Mavericks
+202003170POR,"Tue, Mar 17, 2020",17-03-2020,67,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,MIN,Minnesota Timberwolves
+202003170NYK,"Tue, Mar 17, 2020",17-03-2020,68,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202003170HOU,"Tue, Mar 17, 2020",17-03-2020,67,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202003170MEM,"Tue, Mar 17, 2020",17-03-2020,68,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202003170DET,"Tue, Mar 17, 2020",17-03-2020,68,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202003180IND,"Wed, Mar 18, 2020",18-03-2020,69,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,GSW,Golden State Warriors
+202003180DEN,"Wed, Mar 18, 2020",18-03-2020,68,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202003180BOS,"Wed, Mar 18, 2020",18-03-2020,68,Home,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+202003180ATL,"Wed, Mar 18, 2020",18-03-2020,70,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202003180CHI,"Wed, Mar 18, 2020",18-03-2020,69,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+202003180PHO,"Wed, Mar 18, 2020",18-03-2020,67,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,10:00p,,PHO,Phoenix Suns
+202003180LAL,"Wed, Mar 18, 2020",18-03-2020,68,Home,,UTA,Utah Jazz,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202003180BRK,"Wed, Mar 18, 2020",18-03-2020,68,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,WAS,Washington Wizards
+202003180NOP,"Wed, Mar 18, 2020",18-03-2020,67,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,SAS,San Antonio Spurs
+202003180PHI,"Wed, Mar 18, 2020",18-03-2020,68,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202003190POR,"Thu, Mar 19, 2020",19-03-2020,71,Away,,POR,Portland Trail Blazers,FALSE,,,Win,,10:00p,,DAL,Dallas Mavericks
+202003190CHO,"Thu, Mar 19, 2020",19-03-2020,69,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202003190MIL,"Thu, Mar 19, 2020",19-03-2020,69,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+202003190HOU,"Thu, Mar 19, 2020",19-03-2020,68,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,SAC,Sacramento Kings
+202003190ORL,"Thu, Mar 19, 2020",19-03-2020,69,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202003200UTA,"Fri, Mar 20, 2020",20-03-2020,70,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202003200SAS,"Fri, Mar 20, 2020",20-03-2020,68,Home,,CHI,Chicago Bulls,FALSE,,,Win,,8:30p,,SAS,San Antonio Spurs
+202003200IND,"Fri, Mar 20, 2020",20-03-2020,70,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,MIA,Miami Heat
+202003200LAC,"Fri, Mar 20, 2020",20-03-2020,70,Home,,PHO,Phoenix Suns,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+202003200DET,"Fri, Mar 20, 2020",20-03-2020,70,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,GSW,Golden State Warriors
+202003200OKC,"Fri, Mar 20, 2020",20-03-2020,69,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202003200TOR,"Fri, Mar 20, 2020",20-03-2020,68,Home,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202003200ATL,"Fri, Mar 20, 2020",20-03-2020,69,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,WAS,Washington Wizards
+202003210WAS,"Sat, Mar 21, 2020",21-03-2020,70,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+202003210PHI,"Sat, Mar 21, 2020",21-03-2020,70,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202003210HOU,"Sat, Mar 21, 2020",21-03-2020,71,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202003210BRK,"Sat, Mar 21, 2020",21-03-2020,70,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,6:00p,,BOS,Boston Celtics
+202003210NYK,"Sat, Mar 21, 2020",21-03-2020,71,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,GSW,Golden State Warriors
+202003210CHO,"Sat, Mar 21, 2020",21-03-2020,70,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202003210PHO,"Sat, Mar 21, 2020",21-03-2020,72,Away,,PHO,Phoenix Suns,FALSE,,,Win,,10:00p,,DAL,Dallas Mavericks
+202003210ORL,"Sat, Mar 21, 2020",21-03-2020,69,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,SAC,Sacramento Kings
+202003210IND,"Sat, Mar 21, 2020",21-03-2020,70,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202003210MEM,"Sat, Mar 21, 2020",21-03-2020,71,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202003220DET,"Sun, Mar 22, 2020",22-03-2020,70,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,6:00p,,DET,Detroit Pistons
+202003220TOR,"Sun, Mar 22, 2020",22-03-2020,70,Away,,TOR,Toronto Raptors,FALSE,,,Win,,6:00p,,DEN,Denver Nuggets
+202003220NOP,"Sun, Mar 22, 2020",22-03-2020,71,Home,,SAC,Sacramento Kings,FALSE,,,Win,,7:00p,,NOP,New Orleans Pelicans
+202003220SAS,"Sun, Mar 22, 2020",22-03-2020,71,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,7:00p,,UTA,Utah Jazz
+202003220MIN,"Sun, Mar 22, 2020",22-03-2020,70,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,7:00p,,MIN,Minnesota Timberwolves
+202003230MIA,"Mon, Mar 23, 2020",23-03-2020,71,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,OKC,Oklahoma City Thunder
+202003230DAL,"Mon, Mar 23, 2020",23-03-2020,70,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,HOU,Houston Rockets
+202003230NYK,"Mon, Mar 23, 2020",23-03-2020,71,Away,,NYK,New York Knicks,FALSE,,,Win,,7:00p,,LAC,Los Angeles Clippers
+202003230BRK,"Mon, Mar 23, 2020",23-03-2020,70,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202003230IND,"Mon, Mar 23, 2020",23-03-2020,70,Home,,PHO,Phoenix Suns,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202003230CHI,"Mon, Mar 23, 2020",23-03-2020,71,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,DEN,Denver Nuggets
+202003230MIL,"Mon, Mar 23, 2020",23-03-2020,71,Home,,DET,Detroit Pistons,FALSE,,,Win,,8:00p,,MIL,Milwaukee Bucks
+202003230WAS,"Mon, Mar 23, 2020",23-03-2020,71,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202003240MIN,"Tue, Mar 24, 2020",24-03-2020,71,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202003240CHO,"Tue, Mar 24, 2020",24-03-2020,72,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,POR,Portland Trail Blazers
+202003240NOP,"Tue, Mar 24, 2020",24-03-2020,72,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202003240TOR,"Tue, Mar 24, 2020",24-03-2020,71,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,LAL,Los Angeles Lakers
+202003240UTA,"Tue, Mar 24, 2020",24-03-2020,72,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,10:00p,,UTA,Utah Jazz
+202003240CLE,"Tue, Mar 24, 2020",24-03-2020,71,Home,,SAC,Sacramento Kings,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202003250WAS,"Wed, Mar 25, 2020",25-03-2020,71,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,PHO,Phoenix Suns
+202003250NYK,"Wed, Mar 25, 2020",25-03-2020,72,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202003250BRK,"Wed, Mar 25, 2020",25-03-2020,72,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:00p,,LAC,Los Angeles Clippers
+202003250MIA,"Wed, Mar 25, 2020",25-03-2020,72,Home,,DEN,Denver Nuggets,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202003250MEM,"Wed, Mar 25, 2020",25-03-2020,72,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,BOS,Boston Celtics
+202003250ORL,"Wed, Mar 25, 2020",25-03-2020,72,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202003250DET,"Wed, Mar 25, 2020",25-03-2020,73,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,POR,Portland Trail Blazers
+202003250GSW,"Wed, Mar 25, 2020",25-03-2020,72,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202003250MIL,"Wed, Mar 25, 2020",25-03-2020,71,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,9:30p,,HOU,Houston Rockets
+202003260SAC,"Thu, Mar 26, 2020",26-03-2020,74,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,ATL,Atlanta Hawks
+202003260CLE,"Thu, Mar 26, 2020",26-03-2020,72,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202003260MIN,"Thu, Mar 26, 2020",26-03-2020,72,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202003260OKC,"Thu, Mar 26, 2020",26-03-2020,72,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202003260DAL,"Thu, Mar 26, 2020",26-03-2020,74,Home,,UTA,Utah Jazz,FALSE,,,Win,,8:30p,,DAL,Dallas Mavericks
+202003260CHI,"Thu, Mar 26, 2020",26-03-2020,72,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,PHI,Philadelphia 76ers
+202003270MIL,"Fri, Mar 27, 2020",27-03-2020,73,Home,,WAS,Washington Wizards,FALSE,,,Win,,8:30p,,MIL,Milwaukee Bucks
+202003270BOS,"Fri, Mar 27, 2020",27-03-2020,73,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,7:30p,,BOS,Boston Celtics
+202003270IND,"Fri, Mar 27, 2020",27-03-2020,72,Home,,HOU,Houston Rockets,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202003270PHI,"Fri, Mar 27, 2020",27-03-2020,73,Home,,PHO,Phoenix Suns,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202003270DET,"Fri, Mar 27, 2020",27-03-2020,73,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,LAC,Los Angeles Clippers
+202003270ORL,"Fri, Mar 27, 2020",27-03-2020,72,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,BRK,Brooklyn Nets
+202003270DEN,"Fri, Mar 27, 2020",27-03-2020,73,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202003270NOP,"Fri, Mar 27, 2020",27-03-2020,73,Home,,NYK,New York Knicks,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202003280CHI,"Sat, Mar 28, 2020",28-03-2020,74,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+202003280WAS,"Sat, Mar 28, 2020",28-03-2020,74,Home,,LAL,Los Angeles Lakers,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+202003280UTA,"Sat, Mar 28, 2020",28-03-2020,75,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,ATL,Atlanta Hawks
+202003280MEM,"Sat, Mar 28, 2020",28-03-2020,72,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,TOR,Toronto Raptors
+202003280MIA,"Sat, Mar 28, 2020",28-03-2020,73,Away,,MIA,Miami Heat,FALSE,,,Win,,8:00p,,PHO,Phoenix Suns
+202003280GSW,"Sat, Mar 28, 2020",28-03-2020,73,Away,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,OKC,Oklahoma City Thunder
+202003280CHO,"Sat, Mar 28, 2020",28-03-2020,74,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,LAC,Los Angeles Clippers
+202003280BRK,"Sat, Mar 28, 2020",28-03-2020,73,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,6:00p,,CLE,Cleveland Cavaliers
+202003290DAL,"Sun, Mar 29, 2020",29-03-2020,75,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,3:00p,,DAL,Dallas Mavericks
+202003290SAC,"Sun, Mar 29, 2020",29-03-2020,73,Home,,IND,Indiana Pacers,FALSE,,,Win,,9:00p,,SAC,Sacramento Kings
+202003290ORL,"Sun, Mar 29, 2020",29-03-2020,74,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,6:00p,,ORL,Orlando Magic
+202003290GSW,"Sun, Mar 29, 2020",29-03-2020,74,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,GSW,Golden State Warriors
+202003290BOS,"Sun, Mar 29, 2020",29-03-2020,73,Away,,BOS,Boston Celtics,FALSE,,,Win,,6:00p,,MIN,Minnesota Timberwolves
+202003290DET,"Sun, Mar 29, 2020",29-03-2020,73,Away,,DET,Detroit Pistons,FALSE,,,Win,,5:00p,,HOU,Houston Rockets
+202003290PHI,"Sun, Mar 29, 2020",29-03-2020,75,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,POR,Portland Trail Blazers
+202003300CHO,"Mon, Mar 30, 2020",30-03-2020,74,Home,,MIA,Miami Heat,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202003300LAC,"Mon, Mar 30, 2020",30-03-2020,74,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,IND,Indiana Pacers
+202003300UTA,"Mon, Mar 30, 2020",30-03-2020,75,Away,,UTA,Utah Jazz,FALSE,,,Win,,9:00p,,CHI,Chicago Bulls
+202003300DEN,"Mon, Mar 30, 2020",30-03-2020,74,Away,,DEN,Denver Nuggets,FALSE,,,Win,,9:00p,,OKC,Oklahoma City Thunder
+202003300BRK,"Mon, Mar 30, 2020",30-03-2020,74,Home,,POR,Portland Trail Blazers,FALSE,,,Win,,7:30p,,BRK,Brooklyn Nets
+202003300MIN,"Mon, Mar 30, 2020",30-03-2020,74,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,LAL,Los Angeles Lakers
+202003300TOR,"Mon, Mar 30, 2020",30-03-2020,73,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202003300CLE,"Mon, Mar 30, 2020",30-03-2020,74,Home,,PHO,Phoenix Suns,FALSE,,,Win,,7:00p,,CLE,Cleveland Cavaliers
+202003310GSW,"Tue, Mar 31, 2020",31-03-2020,75,Home,,DEN,Denver Nuggets,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+202003310SAC,"Tue, Mar 31, 2020",31-03-2020,74,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202003310PHI,"Tue, Mar 31, 2020",31-03-2020,75,Home,,HOU,Houston Rockets,FALSE,,,Win,,7:30p,,PHI,Philadelphia 76ers
+202003310ATL,"Tue, Mar 31, 2020",31-03-2020,75,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,NOP,New Orleans Pelicans
+202004010UTA,"Wed, Apr 1, 2020",01-04-2020,76,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,9:00p,,UTA,Utah Jazz
+202004010BRK,"Wed, Apr 1, 2020",01-04-2020,75,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202004010MIL,"Wed, Apr 1, 2020",01-04-2020,74,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,9:00p,,TOR,Toronto Raptors
+202004010LAL,"Wed, Apr 1, 2020",01-04-2020,75,Home,,IND,Indiana Pacers,FALSE,,,Win,,10:30p,,LAL,Los Angeles Lakers
+202004010WAS,"Wed, Apr 1, 2020",01-04-2020,75,Home,,NOP,New Orleans Pelicans,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202004010MEM,"Wed, Apr 1, 2020",01-04-2020,76,Home,,NYK,New York Knicks,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202004010MIN,"Wed, Apr 1, 2020",01-04-2020,76,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,8:00p,,DAL,Dallas Mavericks
+202004010ORL,"Wed, Apr 1, 2020",01-04-2020,75,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,ORL,Orlando Magic
+202004010OKC,"Wed, Apr 1, 2020",01-04-2020,75,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,PHO,Phoenix Suns
+202004010BOS,"Wed, Apr 1, 2020",01-04-2020,75,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202004020SAC,"Thu, Apr 2, 2020",02-04-2020,75,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:00p,,SAC,Sacramento Kings
+202004020HOU,"Thu, Apr 2, 2020",02-04-2020,76,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,GSW,Golden State Warriors
+202004020POR,"Thu, Apr 2, 2020",02-04-2020,77,Home,,UTA,Utah Jazz,FALSE,,,Win,,10:30p,,POR,Portland Trail Blazers
+202004030IND,"Fri, Apr 3, 2020",03-04-2020,76,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202004030DEN,"Fri, Apr 3, 2020",03-04-2020,76,Home,,CHI,Chicago Bulls,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202004030SAS,"Fri, Apr 3, 2020",03-04-2020,77,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,GSW,Golden State Warriors
+202004030MEM,"Fri, Apr 3, 2020",03-04-2020,77,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202004030PHO,"Fri, Apr 3, 2020",03-04-2020,76,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,10:00p,,PHO,Phoenix Suns
+202004030NYK,"Fri, Apr 3, 2020",03-04-2020,76,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,MIN,Minnesota Timberwolves
+202004030BOS,"Fri, Apr 3, 2020",03-04-2020,76,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,ORL,Orlando Magic
+202004030ATL,"Fri, Apr 3, 2020",03-04-2020,76,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,CHO,Charlotte Hornets
+202004030TOR,"Fri, Apr 3, 2020",03-04-2020,75,Home,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202004030DET,"Fri, Apr 3, 2020",03-04-2020,76,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,MIA,Miami Heat
+202004030WAS,"Fri, Apr 3, 2020",03-04-2020,76,Away,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,PHI,Philadelphia 76ers
+202004040SAC,"Sat, Apr 4, 2020",04-04-2020,76,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202004040LAC,"Sat, Apr 4, 2020",04-04-2020,76,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,3:30p,,OKC,Oklahoma City Thunder
+202004050CHO,"Sun, Apr 5, 2020",05-04-2020,77,Home,,ATL,Atlanta Hawks,FALSE,,,Win,,1:00p,,CHO,Charlotte Hornets
+202004050MIN,"Sun, Apr 5, 2020",05-04-2020,77,Home,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,MIN,Minnesota Timberwolves
+202004050HOU,"Sun, Apr 5, 2020",05-04-2020,76,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,HOU,Houston Rockets
+202004050NYK,"Sun, Apr 5, 2020",05-04-2020,77,Away,,NYK,New York Knicks,FALSE,,,Win,,5:00p,,MIA,Miami Heat
+202004050SAC,"Sun, Apr 5, 2020",05-04-2020,77,Away,,SAC,Sacramento Kings,FALSE,,,Win,,9:00p,,CLE,Cleveland Cavaliers
+202004050POR,"Sun, Apr 5, 2020",05-04-2020,78,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,9:00p,,POR,Portland Trail Blazers
+202004050LAL,"Sun, Apr 5, 2020",05-04-2020,77,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,9:30p,,LAL,Los Angeles Lakers
+202004050SAS,"Sun, Apr 5, 2020",05-04-2020,77,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,7:00p,,NOP,New Orleans Pelicans
+202004050IND,"Sun, Apr 5, 2020",05-04-2020,77,Home,,WAS,Washington Wizards,FALSE,,,Win,,5:00p,,IND,Indiana Pacers
+202004050DEN,"Sun, Apr 5, 2020",05-04-2020,78,Away,,DEN,Denver Nuggets,FALSE,,,Win,,6:00p,,UTA,Utah Jazz
+202004050BRK,"Sun, Apr 5, 2020",05-04-2020,77,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,6:00p,,BRK,Brooklyn Nets
+202004050PHO,"Sun, Apr 5, 2020",05-04-2020,77,Away,,PHO,Phoenix Suns,FALSE,,,Win,,6:00p,,CHI,Chicago Bulls
+202004050BOS,"Sun, Apr 5, 2020",05-04-2020,77,Away,,BOS,Boston Celtics,FALSE,,,Win,,3:30p,,MIL,Milwaukee Bucks
+202004050PHI,"Sun, Apr 5, 2020",05-04-2020,77,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,1:00p,,ORL,Orlando Magic
+202004070POR,"Tue, Apr 7, 2020",07-04-2020,79,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202004070PHI,"Tue, Apr 7, 2020",07-04-2020,78,Away,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:30p,,MIL,Milwaukee Bucks
+202004070WAS,"Tue, Apr 7, 2020",07-04-2020,78,Home,,TOR,Toronto Raptors,FALSE,,,Win,,7:00p,,WAS,Washington Wizards
+202004070OKC,"Tue, Apr 7, 2020",07-04-2020,78,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+202004070SAS,"Tue, Apr 7, 2020",07-04-2020,78,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,SAC,Sacramento Kings
+202004070MIA,"Tue, Apr 7, 2020",07-04-2020,78,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,MIA,Miami Heat
+202004070DEN,"Tue, Apr 7, 2020",07-04-2020,78,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202004070ATL,"Tue, Apr 7, 2020",07-04-2020,78,Away,,ATL,Atlanta Hawks,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202004070NOP,"Tue, Apr 7, 2020",07-04-2020,78,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,CHO,Charlotte Hornets
+202004070DAL,"Tue, Apr 7, 2020",07-04-2020,77,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,8:30p,,HOU,Houston Rockets
+202004070LAL,"Tue, Apr 7, 2020",07-04-2020,78,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,CHI,Chicago Bulls
+202004070MIN,"Tue, Apr 7, 2020",07-04-2020,78,Home,,PHO,Phoenix Suns,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202004070UTA,"Tue, Apr 7, 2020",07-04-2020,79,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:00p,,UTA,Utah Jazz
+202004080HOU,"Wed, Apr 8, 2020",08-04-2020,78,Home,,SAS,San Antonio Spurs,FALSE,,,Win,,9:30p,,HOU,Houston Rockets
+202004080GSW,"Wed, Apr 8, 2020",08-04-2020,78,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202004080BOS,"Wed, Apr 8, 2020",08-04-2020,78,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202004080CHO,"Wed, Apr 8, 2020",08-04-2020,78,Away,,CHO,Charlotte Hornets,FALSE,,,Win,,7:00p,,TOR,Toronto Raptors
+202004080NYK,"Wed, Apr 8, 2020",08-04-2020,78,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:30p,,NYK,New York Knicks
+202004080LAC,"Wed, Apr 8, 2020",08-04-2020,79,Home,,CHI,Chicago Bulls,FALSE,,,Win,,10:30p,,LAC,Los Angeles Clippers
+202004090NOP,"Thu, Apr 9, 2020",09-04-2020,79,Away,,NOP,New Orleans Pelicans,FALSE,,,Win,,8:00p,,PHO,Phoenix Suns
+202004090MIA,"Thu, Apr 9, 2020",09-04-2020,79,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202004090MIL,"Thu, Apr 9, 2020",09-04-2020,79,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,8:00p,,BRK,Brooklyn Nets
+202004090POR,"Thu, Apr 9, 2020",09-04-2020,80,Home,,DEN,Denver Nuggets,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202004090LAL,"Thu, Apr 9, 2020",09-04-2020,79,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,GSW,Golden State Warriors
+202004090MIN,"Thu, Apr 9, 2020",09-04-2020,79,Home,,SAC,Sacramento Kings,FALSE,,,Win,,8:00p,,MIN,Minnesota Timberwolves
+202004100OKC,"Fri, Apr 10, 2020",10-04-2020,79,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,NYK,New York Knicks
+202004100TOR,"Fri, Apr 10, 2020",10-04-2020,80,Away,,TOR,Toronto Raptors,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202004100ORL,"Fri, Apr 10, 2020",10-04-2020,79,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202004100HOU,"Fri, Apr 10, 2020",10-04-2020,79,Away,,HOU,Houston Rockets,FALSE,,,Win,,8:00p,,WAS,Washington Wizards
+202004100SAS,"Fri, Apr 10, 2020",10-04-2020,79,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,8:30p,,PHI,Philadelphia 76ers
+202004110LAC,"Sat, Apr 11, 2020",11-04-2020,80,Home,,GSW,Golden State Warriors,FALSE,,,Win,,8:30p,,LAC,Los Angeles Clippers
+202004110DAL,"Sat, Apr 11, 2020",11-04-2020,80,Away,,DAL,Dallas Mavericks,FALSE,,,Win,,3:00p,,DET,Detroit Pistons
+202004110PHO,"Sat, Apr 11, 2020",11-04-2020,80,Away,,PHO,Phoenix Suns,FALSE,,,Win,,10:00p,,UTA,Utah Jazz
+202004110DEN,"Sat, Apr 11, 2020",11-04-2020,80,Home,,SAC,Sacramento Kings,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202004110IND,"Sat, Apr 11, 2020",11-04-2020,80,Home,,ORL,Orlando Magic,FALSE,,,Win,,7:00p,,IND,Indiana Pacers
+202004110CHO,"Sat, Apr 11, 2020",11-04-2020,80,Home,,WAS,Washington Wizards,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202004110MIA,"Sat, Apr 11, 2020",11-04-2020,80,Home,,BOS,Boston Celtics,FALSE,,,Win,,8:00p,,MIA,Miami Heat
+202004110NOP,"Sat, Apr 11, 2020",11-04-2020,80,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,7:00p,,NOP,New Orleans Pelicans
+202004110MEM,"Sat, Apr 11, 2020",11-04-2020,80,Away,,MEM,Memphis Grizzlies,FALSE,,,Win,,8:00p,,OKC,Oklahoma City Thunder
+202004110CLE,"Sat, Apr 11, 2020",11-04-2020,80,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,MIL,Milwaukee Bucks
+202004110CHI,"Sat, Apr 11, 2020",11-04-2020,80,Home,,BRK,Brooklyn Nets,FALSE,,,Win,,8:00p,,CHI,Chicago Bulls
+202004120LAL,"Sun, Apr 12, 2020",12-04-2020,80,Home,,MIN,Minnesota Timberwolves,FALSE,,,Win,,9:30p,,LAL,Los Angeles Lakers
+202004120SAS,"Sun, Apr 12, 2020",12-04-2020,80,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,3:30p,,HOU,Houston Rockets
+202004120TOR,"Sun, Apr 12, 2020",12-04-2020,80,Away,,TOR,Toronto Raptors,FALSE,,,Win,,6:00p,,NYK,New York Knicks
+202004120MIL,"Sun, Apr 12, 2020",12-04-2020,81,Away,,MIL,Milwaukee Bucks,FALSE,,,Win,,7:00p,,ATL,Atlanta Hawks
+202004130IND,"Mon, Apr 13, 2020",13-04-2020,81,Away,,IND,Indiana Pacers,FALSE,,,Win,,7:00p,,SAS,San Antonio Spurs
+202004130CLE,"Mon, Apr 13, 2020",13-04-2020,81,Away,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:00p,,BRK,Brooklyn Nets
+202004130GSW,"Mon, Apr 13, 2020",13-04-2020,81,Away,,GSW,Golden State Warriors,FALSE,,,Win,,10:30p,,POR,Portland Trail Blazers
+202004130HOU,"Mon, Apr 13, 2020",13-04-2020,81,Home,,PHO,Phoenix Suns,FALSE,,,Win,,8:00p,,HOU,Houston Rockets
+202004130DEN,"Mon, Apr 13, 2020",13-04-2020,81,Home,,DAL,Dallas Mavericks,FALSE,,,Win,,9:00p,,DEN,Denver Nuggets
+202004130LAC,"Mon, Apr 13, 2020",13-04-2020,81,Away,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:30p,,MIN,Minnesota Timberwolves
+202004130MEM,"Mon, Apr 13, 2020",13-04-2020,81,Home,,PHI,Philadelphia 76ers,FALSE,,,Win,,8:00p,,MEM,Memphis Grizzlies
+202004130CHI,"Mon, Apr 13, 2020",13-04-2020,81,Away,,CHI,Chicago Bulls,FALSE,,,Win,,8:00p,,ORL,Orlando Magic
+202004130OKC,"Mon, Apr 13, 2020",13-04-2020,81,Away,,OKC,Oklahoma City Thunder,FALSE,,,Win,,8:00p,,UTA,Utah Jazz
+202004130DET,"Mon, Apr 13, 2020",13-04-2020,81,Away,,DET,Detroit Pistons,FALSE,,,Win,,7:00p,,BOS,Boston Celtics
+202004130NOP,"Mon, Apr 13, 2020",13-04-2020,81,Home,,WAS,Washington Wizards,FALSE,,,Win,,8:00p,,NOP,New Orleans Pelicans
+202004130CHO,"Mon, Apr 13, 2020",13-04-2020,81,Home,,MIA,Miami Heat,FALSE,,,Win,,7:00p,,CHO,Charlotte Hornets
+202004140UTA,"Tue, Apr 14, 2020",14-04-2020,82,Away,,UTA,Utah Jazz,FALSE,,,Win,,10:00p,,DEN,Denver Nuggets
+202004140LAL,"Tue, Apr 14, 2020",14-04-2020,81,Away,,LAL,Los Angeles Lakers,FALSE,,,Win,,10:30p,,SAC,Sacramento Kings
+202004140NYK,"Tue, Apr 14, 2020",14-04-2020,82,Away,,NYK,New York Knicks,FALSE,,,Win,,7:30p,,DET,Detroit Pistons
+202004140MIA,"Tue, Apr 14, 2020",14-04-2020,81,Away,,MIA,Miami Heat,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202004150SAS,"Wed, Apr 15, 2020",15-04-2020,82,Away,,SAS,San Antonio Spurs,FALSE,,,Win,,7:30p,,NOP,New Orleans Pelicans
+202004150SAC,"Wed, Apr 15, 2020",15-04-2020,82,Away,,SAC,Sacramento Kings,FALSE,,,Win,,10:00p,,GSW,Golden State Warriors
+202004150DAL,"Wed, Apr 15, 2020",15-04-2020,82,Home,,OKC,Oklahoma City Thunder,FALSE,,,Win,,7:30p,,DAL,Dallas Mavericks
+202004150BRK,"Wed, Apr 15, 2020",15-04-2020,82,Away,,BRK,Brooklyn Nets,FALSE,,,Win,,7:30p,,MIL,Milwaukee Bucks
+202004150PHO,"Wed, Apr 15, 2020",15-04-2020,82,Away,,PHO,Phoenix Suns,FALSE,,,Win,,10:00p,,LAL,Los Angeles Lakers
+202004150POR,"Wed, Apr 15, 2020",15-04-2020,82,Home,,LAC,Los Angeles Clippers,FALSE,,,Win,,10:00p,,POR,Portland Trail Blazers
+202004150HOU,"Wed, Apr 15, 2020",15-04-2020,82,Home,,MEM,Memphis Grizzlies,FALSE,,,Win,,7:30p,,HOU,Houston Rockets
+202004150BOS,"Wed, Apr 15, 2020",15-04-2020,82,Away,,BOS,Boston Celtics,FALSE,,,Win,,7:30p,,CHI,Chicago Bulls
+202004150PHI,"Wed, Apr 15, 2020",15-04-2020,82,Home,,CHO,Charlotte Hornets,FALSE,,,Win,,7:30p,,PHI,Philadelphia 76ers
+202004150ATL,"Wed, Apr 15, 2020",15-04-2020,82,Home,,CLE,Cleveland Cavaliers,FALSE,,,Win,,7:30p,,ATL,Atlanta Hawks
+202004150ORL,"Wed, Apr 15, 2020",15-04-2020,82,Away,,ORL,Orlando Magic,FALSE,,,Win,,7:30p,,TOR,Toronto Raptors
+202004150WAS,"Wed, Apr 15, 2020",15-04-2020,82,Home,,IND,Indiana Pacers,FALSE,,,Win,,7:30p,,WAS,Washington Wizards
+202004150MIN,"Wed, Apr 15, 2020",15-04-2020,82,Away,,MIN,Minnesota Timberwolves,FALSE,,,Win,,7:30p,,NYK,New York Knicks
